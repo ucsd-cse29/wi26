@@ -4,3 +4,4 @@ book/
 *.aux
 *.log
 .DS_Store
+*.swp
