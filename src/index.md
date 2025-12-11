@@ -65,9 +65,7 @@ more than 2 labs for unavoidable reasons.
 
 Evidence suggests that experts can generate (some kinds of) programs more
 quickly with the assistance of large language models. But, they did not
-_become_ experts by using them. They did that with trial and error, attempting
-to do what the machine can (now) do by hand, and by understanding programming
-in great detail.
+_become_ experts by using them.
 
 We offer the following metaphor as guidance:
 
