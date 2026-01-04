@@ -207,22 +207,10 @@ categories to get an A, B, or C.
 
 Below C achievement (in any category) is an F/No Pass.
 
-Pluses and minuses in the B and C categories will be given based on performance
-within the category. We don't publish the exact cutoffs in advance, but you can
-assume that if all categories are at the minimum (e.g. 70, 23, 8 for B), that
-is a `-` modifier, and if several categories are in the next level (e.g. 80,
-27, 10 for B), that is a `+` modifier.
-
-The **A+** grade is special – it has an instructor-determined cutoff with the
-requirements similar to scoring **perfectly** on all course components **on the
-first try** (without retake exams, resubmissions of assignments, etc).
-
-This policy makes it so:
-
-- You should always attempt resubmits and continue submitting work if any of
-  your categories are below A-level; it can only help your grade.
-- If you have achieved A-level in a category (especially exams), there is no
-  incentive to do more work in that category.
+Pluses and minuses will be given based on performance on social learning and
+assignments (exam grades will **not** be used to determine plus and minus
+grades; this is to avoid extra load on retake testing). We don't publish the
+exact cutoffs in advance.
 
 Requests to change this grading policy (for a specific student or class-wide)
 will be denied with a link to this syllabus section. Consider this: we may, as
