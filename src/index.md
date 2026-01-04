@@ -266,6 +266,9 @@ way than you did it, or maybe doing exactly what you did! The key thing is that
 you developed a sense of what a solution was supposed to look like, rather than
 trusting the version from the machine.
 
+(Also, the exams require that you program on your own, without the aid of any AI
+assistants.)
+
 ## Device Policy
 
 To a large degree, you are responsible for managing your time, attention, and
