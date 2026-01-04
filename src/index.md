@@ -2,8 +2,8 @@
 
 # UCSD CSE29 WI25 Syllabus and Logistics
 
-**This page is currently a draft; it will become official at the start of
-instruction in winter quarter**
+**This page is currently a draft; it will become official at the first lecture
+in winter quarter**
 
 [Joe Gibbs Politz](https://jpolitz.github.io) (Instructor)
 
@@ -13,25 +13,78 @@ direct access to memory and system calls, 3) software tools to manage and
 interact with code and programs. All very cool stuff that makes every programmer
 better!
 
+# <a name="basics"></a> Basics
+
+- Lecture (attend the one you're enrolled in):
+  - A section: 11:00am, Center Hall 115
+  - B section: 12:30pm, Center Hall 113
+- Discussions (attend either or both):
+  - FILL
+- Labs: Wednesdays (check your schedule!). Either FILL or FILL in the [CSE building](https://map.concept3d.com/?id=1005#!m/164780?share)
+- Exams: [AP&M Testing Center](https://map.concept3d.com/?id=1005#!m/167186?share), flexible scheduling in FILL on [PrairieTest](https://us.prairietest.com/)
+- Final exam: [AP&M Testing Center](https://map.concept3d.com/?id=1005#!m/167186?share), flexible scheduling in final exam week on [PrairieTest](https://us.prairietest.com/)
+- Professor office hours: Coming soon!
+- Office Hours: Coming soon!
+- Q&A forum: [Piazza](https://piazza.com/class/mjz0y0rvk9c2lw)
+- PrairieLearn: [https://us.prairielearn.com](https://us.prairielearn.com)
+- Textbook/readings: [Dive Into Systems](https://diveintosystems.org/book/), plus additional readings we will assign (all free/online)
+  - Free: [MIT Missing Semester](https://missing.csail.mit.edu/)
+  - Not free but pretty cheap: [Julia Evans Zines](https://wizardzines.com/), especially [The Pocket Guide to Debugging](https://wizardzines.com/zines/debugging-guide/)
+
+# Schedule
+
+- **Week 1: Welcome, Strings and Bitwise Representations**
+  - **Readings and Videos**
+    - [The UNIX Command Line](https://diveintosystems.org/book/Appendix2/cmdln_basics.html)
+    - [Arrays and Strings (In C)](https://diveintosystems.org/book/C1-C_intro/arrays_strings.html)
+    - [Brief Bitwise Operators Intro](https://www.youtube.com/watch?v=iU-0YhRFf7Y)
+    - [Counting 0 bits](https://www.youtube.com/watch?v=M5mVVJHpNQ8)
+
+
+# Course Components
+
+## Social Learning
+
+Learning (in college) is in part, a social process. Your engagement with it
+forms part of your grade for the class.
 
 ### Lecture
 
-Most lectures will come with a _review check_ taken on paper at some point,
-usually right at the beginning of class. These serve mainly as a way to check
-in on content from previous lectures before starting the content for the day,
-and for us to get some information about how everyone is following along with
-lecture content.
+Lectures are designed to introduce you to concepts, show how I (Joe) approach
+problems, give you a chance to ask questions about content, connect course
+content to the world outside the classroom, talk to your classmates and the
+staff, and provide an overarching story for the material.
 
-A review check will be scanned, uploaded to Gradescope by the staff, and graded
-on a 0-3 scale:
+Most lectures will come with two on-paper activities that are handed in for
+credit:
 
-- 1 for writing something
-- 2 for some plausible answer
-- 3 for correct answers
+- A _review check_, near the beginning of class. These serve mainly as a way to
+  check in on content from previous lectures before starting the content for
+  the day, and for us to get some information about how everyone is following
+  along with lecture content. Don't think of them as quizzes, rather as an
+  engagement check. You can discuss these with your classmates, and they are
+  graded on completeness rather than correctness.
+- An _exit slip_ at the end of class (last 5 minutes).  These serve as a way to
+  get feedback from you on the lecture; they will often you to restate or
+  summarize a learning outcome, or say what the “fuzziest” concept from
+  lecture was for you.
 
-We say “most” because in some lectures we may skip this for various timing or
-logistics reasons.
+We say these will happen in “most” lectures because sometimes we may skip
+one or both for various timing or logistics reasons.
 
+**Grading**: Each lecture has 3 social learning points available:
+
+- **2** for the review check (only 1 point if handed in but incomplete)
+- **1** for the exit slip
+
+If you miss either or both, you can submit the missing ones later for **1 point
+total for all missing work**. This is the only way to make up credit for
+missing a lecture. So:
+
+- If you only hand in one during class, you can submit the other to earn 2/3
+  points for that day.
+- If you miss lecture entirely, you can submit both to earn 1 point. All
+  resubmissions must be *before the next lecture* to count, with no exceptions.
 
 ### Labs
 
@@ -43,7 +96,7 @@ The lab sessions and groups will be led by TAs and tutors, who will note your
 participation in these discussions for credit. Note that you must
 **participate**, not merely **attend**, for credit.
 
-For each lab there are 4 possible points to earn:
+**Grading**: For each lab there are 4 possible points to earn:
 
 - **1** for being present
 - **2** for being an active, professional, productive participant while present
@@ -54,14 +107,130 @@ late, but cannot earn back the 3 points related to participation.  There is no
 way to make up a lab beyond this 1 point, even for illness, travel, or
 emergencies. Our preference would be to require all 10 labs for an A, and have
 some kind of excused absences. However, tracking excused absences doesn't
-really scale, so the “two for any reason” policy is how we handle it.  You
-don't need to justify your missed labs. Contact the instructor if you'll miss
-more than 2 labs for unavoidable reasons.
+really scale, so this policy is how we handle it.
 
+## Exams
 
-## Policies and Perspective
+Exams will use the testing facility in [AP&M
+B349](https://map.concept3d.com/?id=1005#!m/167186?share), which is a computer
+lab. You will schedule your exam on [PrairieTest](https://us.prairietest.com/) 
+by logging in with your @ucsd.edu account. You can schedule the exam at a time that's convenient for you in the
+given exam week, and you will go to that lab and check in for your exam at the
+time you picked. The exam will be proctored by staff from the [Triton Testing
+Center](https://tritontesting.ucsd.edu/) (not by the course staff from this
+course). No study aids or devices are allowed to be used in the testing center.
+You will need only a photo ID and something to write with (scratch paper is
+available on request).
 
-### CSE29, Large Language Models, and You
+The Triton Testing Center has shared a [document of rules and tips](./images/Helpful_Tips_CBTF.pdf) for using the testing center.
+
+The exams will be administered through
+[PrairieLearn](https://www.prairielearn.com/about); we will give you practice
+exams and exercises so you can get used to the format we'll use before you take
+the first one. The exams will have a mix of questions; they will typically
+include some that involve programming and interacting with a terminal.
+
+There are three exams during the quarter in weeks 3, 6, and 9. On each you'll
+get a score from 0-4.
+
+We don't have a traditionally-scheduled final exam for this course (you can
+ignore the block provided in Webreg). Instead, in final exam week, you'll have the
+opportunity to retake exams from during the quarter to improve your score **up
+to a 4**, regardless of the score on the first attempt. The retakes may be
+different than the original exam, but will test the same learning outcomes. This
+is also the only make-up option for missed exams during the quarter: if you miss
+an exam for any reason it will be scored as 0, and you can use one of your
+retake opportunities on that exam.
+
+Exams during the quarter are all 45m long, the make-up slot is 2h long and gives
+the opportunity to make up any or all 3 of the in-quarter exams.
+
+## Assignments
+
+The course has 5 **assignments** that involve programming and writing. For each
+there will be:
+
+- A **problem set** that has practice problems related to the assignment
+- A **programming project** where you create a program that does something
+  interesting and that we automatically test
+- **Design questions** about the programming project
+
+**Grading**: There are 6 points available for each assignment.
+
+- **2** points for the corresponding problem set (2 points for fully correct and
+  complete by the deadline, 1 point for incomplete at the deadline).
+- **2** points for program correctness (2 points for perfect or nearly-perfect, 1 point
+  for significant errors)
+- **2** points for design questions (2 points for perfect or nearly-perfect, 1
+  point for significant errors)
+
+After each assignment is graded, you'll have a chance to _resubmit_ all
+components based on the feedback you received, which will detail what you need
+to do to increase your score. You can increase your score by up to **1** point
+in each component on a resubmit.
+
+This is also the only late policy for assignments. Unsubmitted assignments are
+initially given a **0**, and can get a maximum of **3** points on resubmission.
+
+### Discussions
+
+There are discussions on Tuesdays and Thursdays, led by the course staff, for
+going over problem set problems and the programming assignments.
+
+**Grading**: Attendance is taken, and attending discussion gives 1 social
+learning point.
+
+## Grading
+
+Each component of the course has a minimum achievement level to get an A, B, or
+C in the course. You must reach that achievement level in _all_ of the
+categories to get an A, B, or C.
+
+- **A** achievement:
+  - ≥85 social learning points (may adjust depending on the total number of
+    available lecture points)
+  - ≥27/30 assignment points
+  - ≥10/12 exam points
+- **B** achievement:
+  - 70-84 social learning points
+  - 23-26 assignment points
+  - 8-9 exam points
+- **C** achievement:
+  - 55-69 social learning points
+  - 20-23 assignment points
+  - 6-7 exam points
+
+Below C achievement (in any category) is an F/No Pass.
+
+Pluses and minuses in the B and C categories will be given based on performance
+within the category. We don't publish the exact cutoffs in advance, but you can
+assume that if all categories are at the minimum (e.g. 70, 23, 8 for B), that
+is a `-` modifier, and if several categories are in the next level (e.g. 80,
+27, 10 for B), that is a `+` modifier.
+
+The **A+** grade is special – it has an instructor-determined cutoff with the
+requirements similar to scoring **perfectly** on all course components **on the
+first try** (without retake exams, resubmissions of assignments, etc).
+
+This policy makes it so:
+
+- You should always attempt resubmits and continue submitting work if any of
+  your categories are below A-level; it can only help your grade.
+- If you have achieved A-level in a category (especially exams), there is no
+  incentive to do more work in that category.
+
+Requests to change this grading policy (for a specific student or class-wide)
+will be denied with a link to this syllabus section. Consider this: we may, as
+instructors, decide for academic reasons that the most accurate way of
+assigning letter grades in the class needs to change (and we tend to only make
+changes that improve letter grades relative to this starting policy). However,
+it would be inappropriate for us to do so in response to student requests: that
+could create an appearance that we give students the grades they ask for rather
+than the grades they earned.
+
+# Policies and Perspective
+
+## CSE29, Large Language Models, and You
 
 Evidence suggests that experts can generate (some kinds of) programs more
 quickly with the assistance of large language models. But, they did not
@@ -104,7 +273,7 @@ way than you did it, or maybe doing exactly what you did! The key thing is that
 you developed a sense of what a solution was supposed to look like, rather than
 trusting the version from the machine.
 
-### Device Policy
+## Device Policy
 
 To a large degree, you are responsible for managing your time, attention, and
 learning in lecture, and I hesitate to make policies that attempt to govern or
@@ -122,7 +291,7 @@ playing a game, or doing other off-topic tasks during lecture, sit in the back
 2 rows so that you are only having an affect on your own attention, or the
 attention of others with a similar mindset.
 
-### Exams and Academic Integrity
+## Exams and Academic Integrity
 
 It is a violation of academic integrity to share details of _your_ exam with
 others until after you receive your grade for it. Keep in mind that the exams
@@ -131,8 +300,7 @@ one that others see.  It is a violation of academic integrity to communicate
 with anyone other than the official proctors during the exam, or to use devices
 other than the ones you are using to complete the exam.
 
-
-### Lab and Professionalism
+## Lab and Professionalism
 
 Lab work will be highly collaborative, and designed to encourage communication
 between students. Some of the activities will have you talk to other students,
@@ -169,14 +337,7 @@ Examples:
   trouble understanding lines 20-24. It would help me to work through an
   example of how that part is supposed to work”
 
-## FAQ/AFQ (Anticipated Frequent Questions)
-
-**Q: Is there a syllabus listing the topics covered in this course that I can
-show my department/school/institution?**
-
-Yes, the content will be similar to the Fall 2024 version:
-[https://ucsd-cse29.github.io/fa24/](https://ucsd-cse29.github.io/fa24/), and
-that page has the relevant course outcome and syllabus information.
+# FAQ/AFQ (Anticipated Frequent Questions)
 
 **Q: I am waitlisted for one of the sections at position N. What should I do?**
 
@@ -224,8 +385,8 @@ Stay tuned for announcements about scheduling make-ups in final exam week.
 
 **Where is the financial aid survey?**
 
-We do this for you; as long as you submit something or do a lab participation
-in the first two weeks, we will mark you as commencing academic activity.
+We do this for you; as long as you submit something in the first two weeks, we
+will mark you as commencing academic activity.
 
 **When are the midterms scheduled?**
 
