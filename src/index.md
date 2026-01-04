@@ -43,71 +43,35 @@ better!
 
 # Course Components
 
-## Social Learning
+There are three main parts of the course: **Assignments**, **Exams**, and
+**Social Learning**.
 
-Learning (in college) is in part, a social process. Your engagement with it
-forms part of your grade for the class.
+## Assignments
 
-### Lecture
+The course has 5 **assignments** that involve programming and writing. For each
+there will be:
 
-Lectures are designed to introduce you to concepts, show how I (Joe) approach
-problems, give you a chance to ask questions about content, connect course
-content to the world outside the classroom, talk to your classmates and the
-staff, and provide an overarching story for the material.
+- A **problem set** that has practice problems related to the assignment
+- A **programming project** where you create a program that does something
+  interesting and that we automatically test
+- **Design questions** about the programming project
 
-Most lectures will come with two on-paper activities that are handed in for
-credit:
+**Grading**: There are 6 points available for each assignment.
 
-- A _review check_, near the beginning of class. These serve mainly as a way to
-  check in on content from previous lectures before starting the content for
-  the day, and for us to get some information about how everyone is following
-  along with lecture content. Don't think of them as quizzes, rather as an
-  engagement check. You can discuss these with your classmates, and they are
-  graded on completeness rather than correctness.
-- An _exit slip_ at the end of class (last 5 minutes).  These serve as a way to
-  get feedback from you on the lecture; they will often you to restate or
-  summarize a learning outcome, or say what the “fuzziest” concept from
-  lecture was for you.
+- **2** points for the corresponding problem set (2 points for fully correct and
+  complete by the deadline, 1 point for incomplete at the deadline).
+- **2** points for program correctness (2 points for perfect or nearly-perfect, 1 point
+  for significant errors)
+- **2** points for design questions (2 points for perfect or nearly-perfect, 1
+  point for significant errors)
 
-We say these will happen in “most” lectures because sometimes we may skip
-one or both for various timing or logistics reasons.
+After each assignment is graded, you'll have a chance to _resubmit_ all
+components based on the feedback you received, which will detail what you need
+to do to increase your score. You can increase your score by up to **1** point
+in each component on a resubmit.
 
-**Grading**: Each lecture has 3 social learning points available:
-
-- **2** for the review check (only 1 point if handed in but incomplete)
-- **1** for the exit slip
-
-If you miss either or both, you can submit the missing ones later for **1 point
-total for all missing work**. This is the only way to make up credit for
-missing a lecture. So:
-
-- If you only hand in one during class, you can submit the other to earn 2/3
-  points for that day.
-- If you miss lecture entirely, you can submit both to earn 1 point. All
-  resubmissions must be *before the next lecture* to count, with no exceptions.
-
-### Labs
-
-The course's lab component meets for 2 hours. In each lab you'll switch between
-working on your own, working in pairs, and participating in group discussions
-about your approach, lessons learned, programming problems, and so on.
-
-The lab sessions and groups will be led by TAs and tutors, who will note your
-participation in these discussions for credit. Note that you must
-**participate**, not merely **attend**, for credit.
-
-**Grading**: For each lab there are 4 possible points to earn:
-
-- **1** for being present
-- **2** for being an active, professional, productive participant while present
-- **1** for submitting and/or getting work checked off that was done in lab
-
-If you miss lab, you can earn the submission/check-off point by submitting work
-late, but cannot earn back the 3 points related to participation.  There is no
-way to make up a lab beyond this 1 point, even for illness, travel, or
-emergencies. Our preference would be to require all 10 labs for an A, and have
-some kind of excused absences. However, tracking excused absences doesn't
-really scale, so this policy is how we handle it.
+This is also the only late policy for assignments. Unsubmitted assignments are
+initially given a **0**, and can get a maximum of **3** points on resubmission.
 
 ## Exams
 
@@ -145,40 +109,81 @@ retake opportunities on that exam.
 Exams during the quarter are all 45m long, the make-up slot is 2h long and gives
 the opportunity to make up any or all 3 of the in-quarter exams.
 
-## Assignments
 
-The course has 5 **assignments** that involve programming and writing. For each
-there will be:
+## Social Learning
 
-- A **problem set** that has practice problems related to the assignment
-- A **programming project** where you create a program that does something
-  interesting and that we automatically test
-- **Design questions** about the programming project
+Learning (in college) is in part, a social process. Your engagement with it
+forms part of your grade for the class.
 
-**Grading**: There are 6 points available for each assignment.
+### Lecture (Social Learning)
 
-- **2** points for the corresponding problem set (2 points for fully correct and
-  complete by the deadline, 1 point for incomplete at the deadline).
-- **2** points for program correctness (2 points for perfect or nearly-perfect, 1 point
-  for significant errors)
-- **2** points for design questions (2 points for perfect or nearly-perfect, 1
-  point for significant errors)
+Lectures are designed to introduce you to concepts, show how I (Joe) approach
+problems, give you a chance to ask questions about content, connect course
+content to the world outside the classroom, talk to your classmates and the
+staff, and provide an overarching story for the material.
 
-After each assignment is graded, you'll have a chance to _resubmit_ all
-components based on the feedback you received, which will detail what you need
-to do to increase your score. You can increase your score by up to **1** point
-in each component on a resubmit.
+Most lectures will come with two on-paper activities that are handed in for
+credit:
 
-This is also the only late policy for assignments. Unsubmitted assignments are
-initially given a **0**, and can get a maximum of **3** points on resubmission.
+- A _review check_, near the beginning of class. These serve mainly as a way to
+  check in on content from previous lectures before starting the content for
+  the day, and for us to get some information about how everyone is following
+  along with lecture content. Don't think of them as quizzes, rather as an
+  engagement check. You can discuss these with your classmates, and they are
+  graded on completeness rather than correctness.
+- An _exit slip_ at the end of class (last 5 minutes).  These serve as a way to
+  get feedback from you on the lecture; they will often you to restate or
+  summarize a learning outcome, or say what the “fuzziest” concept from
+  lecture was for you.
 
-### Discussions
+We say these will happen in “most” lectures because sometimes we may skip
+one or both for various timing or logistics reasons.
+
+**Grading**: Each lecture has 3 social learning points available:
+
+- **2** for the review check (only 1 point if handed in but incomplete)
+- **1** for the exit slip
+
+If you miss either or both, you can submit the missing ones later for **1 point
+total for all missing work**. This is the only way to make up credit for
+missing a lecture. So:
+
+- If you only hand in one during class, you can submit the other to earn 2/3
+  points for that day.
+- If you miss lecture entirely, you can submit both to earn 1 point. All
+  resubmissions must be *before the next lecture* to count, with no exceptions.
+
+### Labs (Social Learning)
+
+The course's lab component meets for 2 hours. In each lab you'll switch between
+working on your own, working in pairs, and participating in group discussions
+about your approach, lessons learned, programming problems, and so on.
+
+The lab sessions and groups will be led by TAs and tutors, who will note your
+participation in these discussions for credit. Note that you must
+**participate**, not merely **attend**, for credit.
+
+**Grading**: For each lab there are 4 possible points to earn:
+
+- **1** for being present
+- **2** for being an active, professional, productive participant while present
+- **1** for submitting and/or getting work checked off that was done in lab
+
+If you miss lab, you can earn the submission/check-off point by submitting work
+late, but cannot earn back the 3 points related to participation.  There is no
+way to make up a lab beyond this 1 point, even for illness, travel, or
+emergencies. Our preference would be to require all 10 labs for an A, and have
+some kind of excused absences. However, tracking excused absences doesn't
+really scale, so this policy is how we handle it.
+
+### Discussions (Social Learning)
 
 There are discussions on Tuesdays and Thursdays, led by the course staff, for
 going over problem set problems and the programming assignments.
 
 **Grading**: Attendance is taken, and attending discussion gives 1 social
 learning point.
+
 
 ## Grading
 
