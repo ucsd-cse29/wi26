@@ -16,18 +16,21 @@ better!
 # <a name="basics"></a> Basics
 
 - Lecture (attend the one you're enrolled in):
-  - A section: 11:00am, Center Hall 115
-  - B section: 12:30pm, Center Hall 113
-- Discussions (attend either or both):
-  - FILL
-- Labs: Wednesdays (check your schedule!). Either FILL or FILL in the [CSE building](https://map.concept3d.com/?id=1005#!m/164780?share)
+  - A section: Tue/Thu 11:00am, Center Hall 115
+  - B section: Tue/Thu 12:30pm, Center Hall 113
+- Discussions:
+  - A section: Tue 5:00pm, Pepper Canyon Hall 109
+  - B section: Thu 5:00pm, Center Hall 212
+- Labs: Wednesdays (check your schedule!). Either B240 or B250 in the [CSE building](https://map.concept3d.com/?id=1005#!m/164780?share)
 - Exams: [AP&M Testing Center](https://map.concept3d.com/?id=1005#!m/167186?share), flexible scheduling in FILL on [PrairieTest](https://us.prairietest.com/)
 - Final exam: [AP&M Testing Center](https://map.concept3d.com/?id=1005#!m/167186?share), flexible scheduling in final exam week on [PrairieTest](https://us.prairietest.com/)
-- Professor office hours: Coming soon!
+- Professor office hours:
+  - Tuesday 2:30-3:30pm, CSE 3206 (advising focused, open to all students)
+  - Wednesday 1:30-2:30pm CSE B260 (CSE29 students only) 
 - Office Hours: Coming soon!
 - Q&A forum: [Piazza](https://piazza.com/class/mjz0y0rvk9c2lw)
 - PrairieLearn: [https://us.prairielearn.com](https://us.prairielearn.com)
-- Textbook/readings: [Dive Into Systems](https://diveintosystems.org/book/), plus additional readings we will assign (all free/online)
+- Textbook/readings: [Dive Into Systems](https://diveintosystems.org/book/), plus additional readings we will assign
   - Free: [MIT Missing Semester](https://missing.csail.mit.edu/)
   - Not free but pretty cheap: [Julia Evans Zines](https://wizardzines.com/), especially [The Pocket Guide to Debugging](https://wizardzines.com/zines/debugging-guide/)
 
