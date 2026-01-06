@@ -22,6 +22,7 @@ better!
   - A section: Tue 5:00pm, Pepper Canyon Hall 109
   - B section: Thu 5:00pm, Center Hall 212
 - Labs: Wednesdays (check your schedule!). Either B240 or B250 in the [CSE building](https://map.concept3d.com/?id=1005#!m/164780?share)
+Exams: [AP&M Testing Center](https://map.concept3d.com/?id=1005#!m/167186?share), flexible scheduling on [PrairieTest](https://us.prairietest.com/) [details coming in week 1]
 - Exams: Details coming soon
 - Final exam: [AP&M Testing Center](https://map.concept3d.com/?id=1005#!m/167186?share), flexible scheduling in final exam week on [PrairieTest](https://us.prairietest.com/)
 - Professor office hours:
@@ -78,6 +79,20 @@ initially given a **0**, and can get a maximum of **3** points on resubmission.
 
 ## Exams
 
+Exams will use the testing facility in [AP&M
+B349](https://map.concept3d.com/?id=1005#!m/167186?share), which is a computer
+lab. You will schedule your exam on [PrairieTest](https://us.prairietest.com/) 
+by logging in with your @ucsd.edu account. You can schedule the exam at a time
+that's convenient for you in the given exam week, and you will go to that lab
+and check in for your exam at the time you picked. The exam will be proctored by
+staff from the [Triton Testing Center](https://tritontesting.ucsd.edu/) (not by
+the course staff from this course). No study aids or devices are allowed to be
+used in the testing center.  You will need only a photo ID and something to
+write with (scratch paper is available on request).
+
+The Triton Testing Center has shared a [document of rules and
+tips](./images/Helpful_Tips_CBTF.pdf) for using the testing center.
+
 The exams will be administered through
 [PrairieLearn](https://www.prairielearn.com/about) and
 [PrairieTest](https://us.prairietest.com). The exams will have a mix of
@@ -85,15 +100,7 @@ questions; they will typically include some that involve programming and
 interacting with a terminal.
 
 We'll know the precise scheduling by the end of week 1 for both the exams during
-the quarter and the final exam; there will be 3 exams during the quarter.
-
-The final exam for this course is special. Instead of a separate exam you'll
-have the opportunity to retake exams from during the quarter to improve your
-score **up to a 4**, regardless of the score on the first attempt. The retakes
-may be different than the original exam, but will test the same learning
-outcomes. This is also the only make-up option for missed exams during the
-quarter: if you miss an exam for any reason it will be scored as 0, and you can
-use one of your retake opportunities on that exam.
+the quarter and the final exam.
 
 ## Social Learning
 
