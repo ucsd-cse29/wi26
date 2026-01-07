@@ -2,9 +2,6 @@
 
 # UCSD CSE29 WI26 Syllabus and Logistics
 
-**This page is currently a draft; it will become official at the first lecture
-in winter quarter**
-
 [Joe Gibbs Politz](https://jpolitz.github.io) (Instructor)
 
 CSE 29 introduces you to the broad field of systems programming, including 1)
