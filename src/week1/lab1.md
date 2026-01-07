@@ -1,9 +1,30 @@
 # Lab 1
 January 7, 2026
 
+## Welcome! Lab setup
+
 ### Fill out the [Lab 1 Form](https://forms.gle/viqCCYAUkF1y9bGU9)
 
+### Boot to Linux and Login
+
+If you computer is Windows and looks like this
+![windows](assets/windows.jpg)
+
+Restart the computer and when shown the following menu
+![bootmenu](assets/boot_menu.png)
+
+Select the top option: "Linux Mint 21.1 Cinnamon" by using the arrow keys and pressing enter.
+
+If you were not presented with this menu, restart and hold f12 has it reboots.  
+Then on this menu
+![ubuntu](assets/ubuntu.jpg)
+
+Select the ubuntu option as shown using the arrow keys and press enter to reach the first black menu.
+
+Then you can log into the computer you are sitting at (use your “Active Directory” username and password – the same one you use for Gmail/Canvas) 
+
 ## References
+
 
 ### Terminal
 
