@@ -1,6 +1,6 @@
 ![doodle](./doodle.jpg)
 
-# UCSD CSE29 WI25 Syllabus and Logistics
+# UCSD CSE29 WI26 Syllabus and Logistics
 
 **This page is currently a draft; it will become official at the first lecture
 in winter quarter**
