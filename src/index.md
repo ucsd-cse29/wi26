@@ -22,8 +22,10 @@ better!
   - A section: Tue 5:00pm, Pepper Canyon Hall 109
   - B section: Thu 5:00pm, Center Hall 212
 - Labs: Wednesdays (check your schedule!). Either B240 or B250 in the [CSE building](https://map.concept3d.com/?id=1005#!m/164780?share)
-Exams: [AP&M Testing Center](https://map.concept3d.com/?id=1005#!m/167186?share), flexible scheduling on [PrairieTest](https://us.prairietest.com/) [details coming in week 1]
-- Exams: Details coming soon
+- Exams:
+  - Weeks 4 and 8: [AP&M Testing Center](https://map.concept3d.com/?id=1005#!m/167186?share), flexible scheduling on [PrairieTest](https://us.prairietest.com/)
+  - Week 10: During your regularly-scheduled lab time
+  - Finals week: In CSE labs scheduling instructions coming soon!
 - Final exam: [AP&M Testing Center](https://map.concept3d.com/?id=1005#!m/167186?share), flexible scheduling in final exam week on [PrairieTest](https://us.prairietest.com/)
 - Professor office hours:
   - Tuesday 2:30-3:30pm, CSE 3206 (advising focused, open to all students)
@@ -82,19 +84,22 @@ initially given a **0**, and can get a maximum of **3** points on resubmission.
 
 ## Exams
 
-Exams will use the testing facility in [AP&M
-B349](https://map.concept3d.com/?id=1005#!m/167186?share), which is a computer
-lab. You will schedule your exam on [PrairieTest](https://us.prairietest.com/) 
-by logging in with your @ucsd.edu account. You can schedule the exam at a time
-that's convenient for you in the given exam week, and you will go to that lab
-and check in for your exam at the time you picked. The exam will be proctored by
-staff from the [Triton Testing Center](https://tritontesting.ucsd.edu/) (not by
-the course staff from this course). No study aids or devices are allowed to be
-used in the testing center.  You will need only a photo ID and something to
-write with (scratch paper is available on request).
+There will be 3 exams during the quarter and make-up opportunities in finals
+week.
 
-The Triton Testing Center has shared a [document of rules and
-tips](./images/Helpful_Tips_CBTF.pdf) for using the testing center.
+Exams will use a mix of the testing facility in [AP&M
+B349](https://map.concept3d.com/?id=1005#!m/167186?share) (weeks 4 and 8), and
+our regularly-scheduled lab times (week 10). You will schedule your week 4/8
+exam on [PrairieTest](https://us.prairietest.com/) by logging in with your
+@ucsd.edu account. You can schedule the exam at a time that's convenient for
+you in the given exam week, and you will go to that lab and check in for your
+exam at the time you picked. The exam will be proctored by staff from the
+[Triton Testing Center](https://tritontesting.ucsd.edu/) (not by the course
+staff from this course). No study aids or devices are allowed to be used in the
+testing center.  You will need only a photo ID and something to write with
+(scratch paper is available on request).  The Triton Testing Center has shared
+a [document of rules and tips](./images/Helpful_Tips_CBTF.pdf) for using the
+testing center.
 
 The exams will be administered through
 [PrairieLearn](https://www.prairielearn.com/about) and
