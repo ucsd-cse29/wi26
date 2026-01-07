@@ -80,7 +80,7 @@ Copy and paste the one of the corresponding listed public key fingerprints and p
 PrairieLearn URL: [us.prairielearn.com](http://us.prairielearn.com/)
 
 
-Enroll in **CSE 29: Systems Programming and Software Tools, Winter 2026** at [[https://us.prairielearn.com/pl/enroll](https://us.prairielearn.com/pl/enroll)](https://us.prairielearn.com/pl/course_instance/203299)
+Enroll in **CSE 29: Systems Programming and Software Tools, Winter 2026** at [https://us.prairielearn.com/pl/enroll](https://us.prairielearn.com/pl/course_instance/203299)
 
 Complete parts 1 and 2 of the vimtutor demo. (Run “vimtutor” in the terminal)
 
