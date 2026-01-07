@@ -84,9 +84,8 @@ Enroll in **CSE 29: Systems Programming and Software Tools, Winter 2026** at [ht
 
 Complete parts 1 and 2 of the vimtutor demo. (Run “vimtutor” in the terminal)
 
-## Lab Checkoff
-
-	Complete the Lab 1 Prairie Learn assignment.  
+## Lab Checkoff Point (1/4)
+	Complete the vimtutor demo on Prairie Learn.
+	Submit the Lab 1 Prairie Learn assignment.
 	Fill out the Lab 1 form.
-	Do the whiteboard activity.
-	Write the C Program in vim.
+	
