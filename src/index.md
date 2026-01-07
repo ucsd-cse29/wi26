@@ -43,6 +43,9 @@ Exams: [AP&M Testing Center](https://map.concept3d.com/?id=1005#!m/167186?share)
     - [Arrays and Strings (In C)](https://diveintosystems.org/book/C1-C_intro/arrays_strings.html)
     - [Brief Bitwise Operators Intro](https://www.youtube.com/watch?v=iU-0YhRFf7Y)
     - [Counting 0 bits](https://www.youtube.com/watch?v=M5mVVJHpNQ8)
+  - **Lecture Materials**
+    - Monday
+      - Annotated Handout: [11am](lec/01-06-welcome/lecture_notes_jan6_11am.pdf)
 
 
 # Course Components
