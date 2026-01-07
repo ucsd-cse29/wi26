@@ -82,3 +82,8 @@ PrairieLearn URL: [us.prairielearn.com](http://us.prairielearn.com/)
 Enroll in **CSE 29: Systems Programming and Software Tools, Fall 2025** at [https://us.prairielearn.com/pl/enroll](https://us.prairielearn.com/pl/enroll)
 
 Complete parts 1 and 2 of the vimtutor demo. (Run “vimtutor” in the terminal)
+
+## Lab Checkoff
+
+	Complete the Lab 1 Prairie Learn assignment.  
+	Fill out the Lab 1 form.
