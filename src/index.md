@@ -164,12 +164,13 @@ participation in these discussions for credit. Note that you must
 - **2** for being an active, professional, productive participant while present
 - **1** for submitting and/or getting work checked off that was done in lab
 
-If you miss lab, you can earn the submission/check-off point by submitting work
-late, but cannot earn back the 3 points related to participation.  There is no
-way to make up a lab beyond this 1 point, even for illness, travel, or
-emergencies. Our preference would be to require all 10 labs for an A, and have
-some kind of excused absences. However, tracking excused absences doesn't
-really scale, so this policy is how we handle it.
+If you miss lab, you can earn the submission/check-off point by submitting the
+check off work **before the next Tuesday at 11am**, but cannot earn the 3
+points related to participation.  There is no way to make up a lab beyond this
+1 point, even for illness, travel, or emergencies. Our preference would be to
+require all 10 labs for an A, and have some kind of excused absences. However,
+tracking excused absences doesn't really scale, so this policy is how we handle
+it.
 
 ### Discussions (Social Learning)
 
