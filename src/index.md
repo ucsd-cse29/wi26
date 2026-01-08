@@ -45,7 +45,7 @@ Exams: [AP&M Testing Center](https://map.concept3d.com/?id=1005#!m/167186?share)
     - [Counting 0 bits](https://www.youtube.com/watch?v=M5mVVJHpNQ8)
   - **Lecture Materials**
     - Monday
-      - Annotated Handout: [11am](lec/01-06-welcome/lecture_notes_jan6_11am.pdf)
+      - Annotated Handout: [11am](lec/01-06-welcome/lecture_notes_jan6_11am.pdf) [12:30pm](lec/01-06-welcome/ScanJan06,2026Joe'sNotes.pdf)
 
 
 # Course Components
