@@ -45,6 +45,7 @@ better!
   - **Lecture Materials**
     - Monday
       - Annotated Handout: [11am](lec/01-06-welcome/lecture_notes_jan6_11am.pdf) [12:30pm](lec/01-06-welcome/ScanJan06,2026Joe'sNotes.pdf)
+      - [Lecture Summary](lec/01-06-welcome/summary.pdf)
     - Wednesday
       - [Handout](lec/01-08-cstring/lecture.pdf)
 
