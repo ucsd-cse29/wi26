@@ -100,7 +100,7 @@ We recommend _saving your input in files_ and using redirection to test so you d
 
 ## PA Design Questions
 
-You will answer the following questions in your DESIGN.md file. Answer each of these with a few sentences or paragraphs; don't write a whole essay, but use good writing practice to communicate the essence of the idea. A good response doesn't need to be long, but it needs to have attention to detail and be clear. Examples help!
+You will answer the following questions on the Gradescope Assignment. Answer each of these with a few sentences or paragraphs; don't write a whole essay, but use good writing practice to communicate the essence of the idea. A good response doesn't need to be long, but it needs to have attention to detail and be clear. Examples help!
 
 **Question 1**
 
@@ -135,8 +135,8 @@ You can use any code from class, lab, or discussion in your work.
 ## What to Hand In
 
 - Any `.c` files you wrote (can be one file or many; it's totally reasonable to only have one). We will run `gcc *.c -o utf8analyzer` to compile your code, so you should make sure it works when we do that.
-- A file `DESIGN.md` (with exactly that name) containing the answers to the design questions
 - Your tests are in files `tests/*.txt`
+- Submit the Gradescope assignment containing the answers to the design questions
 
 Hand in to the `pa1` assignment on Gradescope. You can either submit a link to your GitHub Classroom Repository or upload
 the files from your computer.
