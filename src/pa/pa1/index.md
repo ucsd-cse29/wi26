@@ -112,7 +112,7 @@ Describe how you would write a function that detects if a UTF-8 string has any i
 
 **Question 2**
 
-Consider a comparison of UTF-8 with the alternate encoding UTF-32 (https://en.wikipedia.org/wiki/UTF-32).
+Consider a comparison of UTF-8 with the alternate encoding [UTF-32](https://en.wikipedia.org/wiki/UTF-32).
 
 For a string `s` that is n+1 bytes long (n bytes of data with a 1-byte null terminator), `strlen(s)` must be equal to n.
 
