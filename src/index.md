@@ -43,10 +43,10 @@ better!
     - [Brief Bitwise Operators Intro](https://www.youtube.com/watch?v=iU-0YhRFf7Y)
     - [Counting 0 bits](https://www.youtube.com/watch?v=M5mVVJHpNQ8)
   - **Lecture Materials**
-    - Monday
+    - Tuesday
       - Annotated Handout: [11am](lec/01-06-welcome/lecture_notes_jan6_11am.pdf) [12:30pm](lec/01-06-welcome/ScanJan06,2026Joe'sNotes.pdf)
       - [Lecture Summary](lec/01-06-welcome/summary.pdf)
-    - Wednesday
+    - Thursday
       - [Handout](lec/01-08-cstring/lecture.pdf)
       - Annotated Handout: [11am](ec/01-08-cstring/lecture_notes_jan8_11am.pdf)
 
