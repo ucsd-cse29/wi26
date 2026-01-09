@@ -52,7 +52,7 @@ better!
       - [Lecture Summary](lec/01-06-welcome/summary.pdf)
     - Thursday
       - [Handout](lec/01-08-cstring/lecture.pdf)
-      - Annotated Handout: [11am](lec/01-08-cstring/lecture_notes_jan8_11am.pdf)
+      - Annotated Handout: [11am](lec/01-08-cstring/lecture_notes_jan8_11am.pdf) [12:30pm](lec/01-08-cstring/lecture_notes_jan8_1230pm.pdf)
 
 # Course Components
 
