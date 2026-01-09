@@ -24,7 +24,7 @@ You can do your programming however you like; using `vim` on `ieng6` will give y
 practice for labs, exams, and problem sets, but you are not required to use any
 particular environment (we'd have no way to check anyway).
 
-To get started, follow the instructions in lab 2 and create a [GitHub Classroom](https://classroom.github.com/a/VY1g9gSk) assignment.
+To get started create a [GitHub Classroom](https://classroom.github.com/a/Sujqkddl) assignment.
 
 ## UTF-8 Analyzer
 
@@ -128,7 +128,7 @@ _HINT_: Write out the UTF-8 and UTF-32 encoding of a few short strings, includin
 
 ## Resources and Policy
 
-Refer to [the policies on assignments](https://ucsd-cse29.github.io/fa25/#assignments-and-academic-integrity) for working with others or appropriate use of tools like ChatGPT or Github Copilot.
+Refer to [the policies on assignments](https://ucsd-cse29.github.io/wi26/#assignments-and-academic-integrity) for working with others or appropriate use of tools like ChatGPT or Github Copilot.
 
 You can use any code from class, lab, or discussion in your work.
 
