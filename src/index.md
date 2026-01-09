@@ -35,6 +35,7 @@ better!
   - Not free but pretty cheap: [Julia Evans Zines](https://wizardzines.com/), especially [The Pocket Guide to Debugging](https://wizardzines.com/zines/debugging-guide/)
 
 # Office Hours Calendar
+
 <iframe src="https://calendar.google.com/calendar/embed?src=c_ae9767c348e966bfab21111de9970ad83a36f155ee0583d85874fde005ad9232%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Schedule
@@ -147,14 +148,16 @@ one or both for various timing or logistics reasons.
 - **2** for the review check (only 1 point if handed in but incomplete)
 - **1** for the exit slip
 
-If you miss either or both, you can submit the missing ones later for **1 point
-total for all missing work**. This is the only way to make up credit for
-missing a lecture. So:
+If you miss either or both during class, you can submit the makeup assignment
+later for **1 point total**. This is the only way to make up credit for missing a lecture.
 
-- If you only hand in one during class, you can submit the other to earn 2/3
-  points for that day.
-- If you miss lecture entirely, you can submit both to earn 1 point. All
-  resubmissions must be _before the next lecture_ to count, with no exceptions.
+The makeup assignment requires both the review check and exit slip,
+regardless of whether you turned one in during class. So:
+
+- If you only hand in one during class, you can submit the full makeup assignment to earn 2/3 points for that day.
+- If you miss lecture entirely, you can submit the full makeup assignment to earn 1 point.
+
+All resubmissions must be before the next lecture to count, with no exceptions.
 
 ### Labs (Social Learning)
 
