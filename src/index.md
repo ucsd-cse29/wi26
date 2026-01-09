@@ -26,7 +26,7 @@ better!
 - Final exam: [AP&M Testing Center](https://map.concept3d.com/?id=1005#!m/167186?share), flexible scheduling in final exam week on [PrairieTest](https://us.prairietest.com/)
 - Professor office hours:
   - Tuesday 2:30-3:30pm, CSE 3206 (advising focused, open to all students)
-  - Wednesday 1:30-2:30pm CSE B260 (CSE29 students only) 
+  - Wednesday 1:30-2:30pm CSE B260 (CSE29 students only)
 - Office Hours: Coming soon!
 - Q&A forum: [Piazza](https://piazza.com/class/mjz0y0rvk9c2lw)
 - PrairieLearn: [https://us.prairielearn.com](https://us.prairielearn.com)
@@ -49,7 +49,6 @@ better!
     - Thursday
       - [Handout](lec/01-08-cstring/lecture.pdf)
       - Annotated Handout: [11am](ec/01-08-cstring/lecture_notes_jan8_11am.pdf)
-
 
 # Course Components
 
@@ -97,8 +96,8 @@ you in the given exam week, and you will go to that lab and check in for your
 exam at the time you picked. The exam will be proctored by staff from the
 [Triton Testing Center](https://tritontesting.ucsd.edu/) (not by the course
 staff from this course). No study aids or devices are allowed to be used in the
-testing center.  You will need only a photo ID and something to write with
-(scratch paper is available on request).  The Triton Testing Center has shared
+testing center. You will need only a photo ID and something to write with
+(scratch paper is available on request). The Triton Testing Center has shared
 a [document of rules and tips](./images/Helpful_Tips_CBTF.pdf) for using the
 testing center.
 
@@ -132,7 +131,7 @@ credit:
   along with lecture content. Don't think of them as quizzes, rather as an
   engagement check. You can discuss these with your classmates, and they are
   graded on completeness rather than correctness.
-- An _exit slip_ at the end of class (last 5 minutes).  These serve as a way to
+- An _exit slip_ at the end of class (last 5 minutes). These serve as a way to
   get feedback from you on the lecture; they will often you to restate or
   summarize a learning outcome, or say what the “fuzziest” concept from
   lecture was for you.
@@ -152,7 +151,7 @@ missing a lecture. So:
 - If you only hand in one during class, you can submit the other to earn 2/3
   points for that day.
 - If you miss lecture entirely, you can submit both to earn 1 point. All
-  resubmissions must be *before the next lecture* to count, with no exceptions.
+  resubmissions must be _before the next lecture_ to count, with no exceptions.
 
 ### Labs (Social Learning)
 
@@ -172,7 +171,7 @@ participation in these discussions for credit. Note that you must
 
 If you miss lab, you can earn the submission/check-off point by submitting the
 check off work **before the next Tuesday at 11am**, but cannot earn the 3
-points related to participation.  There is no way to make up a lab beyond this
+points related to participation. There is no way to make up a lab beyond this
 1 point, even for illness, travel, or emergencies. Our preference would be to
 require all 10 labs for an A, and have some kind of excused absences. However,
 tracking excused absences doesn't really scale, so this policy is how we handle
@@ -185,7 +184,6 @@ going over problem set problems and the programming assignments.
 
 **Grading**: Attendance is taken, and attending discussion gives 1 social
 learning point.
-
 
 ## Grading
 
@@ -279,7 +277,7 @@ restrict your choices with respect to note taking or device use. However,
 lecture is a communal space, and your actions can affect others' learning. In
 particular, what you have on your screen _may be unavoidably in the field of
 view of other students_. Because of this, you are responsible for a fragment of
-the attention of everyone in a cone of space behind you.  With this in mind,
+the attention of everyone in a cone of space behind you. With this in mind,
 the policy for lecture is that _if you use a device, you must have
 lecture-related content onscreen_. There is even [research that
 shows](https://www.sciencedirect.com/science/article/pii/S0360131520301007)
@@ -289,12 +287,38 @@ playing a game, or doing other off-topic tasks during lecture, sit in the back
 2 rows so that you are only having an affect on your own attention, or the
 attention of others with a similar mindset.
 
+## Assignments and Academic Integrity
+
+You can use code that we provide or that your group develops in lab as part of
+your assignment. If you use code that you developed with other students (whether
+in lab or outside it), got from Piazza, or got from the internet, say which
+students you worked with and a sentence or two about what you did together in
+`CREDITS.txt`. All of the _writing_ in assignments (e.g. in open-ended written
+questions) must be your own.
+
+You **can** use an AI assistant like ChatGPT or Copilot to help you author
+assignments in this class. If you do, you are **required** to include in
+`CREDITS.txt`:
+
+- The prompts you gave to the AI chat, or the context in which you used Copilot
+  autocomplete
+- What its output was and how you changed the output after it was produced (if
+  at all)
+
+This helps us _all_ learn how these new, powerful, and little-understood tools
+work (and don't).
+
+If you don't include a `CREDITS.txt` and it's clear you included code from
+others or from an AI tool, you may lose credit or get a 0 on the assignment, and
+repeated or severe violations can be escalated to reports of academic integrity
+violations.
+
 ## Exams and Academic Integrity
 
 It is a violation of academic integrity to share details of _your_ exam with
 others until after you receive your grade for it. Keep in mind that the exams
 are randomized to discourage casual cheating, so your exam may not be the same
-one that others see.  It is a violation of academic integrity to communicate
+one that others see. It is a violation of academic integrity to communicate
 with anyone other than the official proctors during the exam, or to use devices
 other than the ones you are using to complete the exam.
 
@@ -397,4 +421,3 @@ your calendar.
 
 The final exam will also be flexibly scheduled during final exam week using the
 testing center.
-
