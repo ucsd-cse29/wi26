@@ -24,7 +24,7 @@ You can do your programming however you like; using `vim` on `ieng6` will give y
 practice for labs, exams, and problem sets, but you are not required to use any
 particular environment (we'd have no way to check anyway).
 
-To get started, follow the instructions in lab 2 and create a [GitHub Classroom](https://classroom.github.com/a/Sujqkddl) assignment.
+To get started create a [GitHub Classroom](https://classroom.github.com/a/Sujqkddl) assignment.
 
 ## UTF-8 Analyzer
 
