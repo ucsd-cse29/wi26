@@ -53,7 +53,8 @@ better!
     - Thursday
       - [Handout](lec/01-08-cstring/lecture.pdf)
       - Annotated Handout: [11am](lec/01-08-cstring/lecture_notes_jan8_11am.pdf) [12:30pm](lec/01-08-cstring/lecture_notes_jan8_1230pm.pdf)
-
+      - [Lecture Summary Slides](lec/01-08-cstring/summary.pdf)
+      - [Lecture Summary with Speaker Notes](lec/01-08-cstring/summary-speaker.pdf)
 # Course Components
 
 There are three main parts of the course: **Assignments**, **Exams**, and
