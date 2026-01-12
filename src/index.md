@@ -28,6 +28,7 @@ better!
   - Tuesday 2:30-3:30pm, CSE 3206 (advising focused, open to all students)
   - Wednesday 1:30-2:30pm CSE B260 (CSE29 students only)
 - Office Hours: Coming soon!
+  - Shaurya's OH: Monday 11:00am-1:00pm, [Zoom](https://ucsd.zoom.us/j/5144527852)
 - Q&A forum: [Piazza](https://piazza.com/class/mjz0y0rvk9c2lw)
 - PrairieLearn: [https://us.prairielearn.com](https://us.prairielearn.com)
 - Textbook/readings: [Dive Into Systems](https://diveintosystems.org/book/), plus additional readings we will assign
