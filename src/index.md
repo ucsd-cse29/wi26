@@ -137,7 +137,7 @@ credit:
   engagement check. You can discuss these with your classmates, and they are
   graded on completeness rather than correctness.
 - An _exit slip_ at the end of class (last 5 minutes). These serve as a way to
-  get feedback from you on the lecture; they will often you to restate or
+  get feedback from you on the lecture; they will often ask you to restate or
   summarize a learning outcome, or say what the “fuzziest” concept from
   lecture was for you.
 
