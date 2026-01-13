@@ -9,7 +9,7 @@
 
 # Part 2: SSH Keys on GitHub
 ### Command to get the Github People repo 
-`$ git clone git@github.com:Monip1/lab2-people.git`
+`$ git clone git@github.com:ucsd-cse29/lab2-git-people.git`
 
 This command should fail. We need to set up SSH Keys on GitHub to fix that!
 
@@ -75,7 +75,7 @@ After a successful connection, it should output `Hi <your-username>! You've succ
 
 If you set up the SSH Keys correctly in the previous steps, now you should be able clone the repo: 
 
-`$ git clone git@github.com:Monip1/lab2-people.git`
+`$ git clone git@github.com:ucsd-cse29/lab2-git-people.git`
 
 # Part 3: Whiteboard Activity - UTF-8 Strings
 1. ★彡:)
@@ -85,7 +85,7 @@ If you set up the SSH Keys correctly in the previous steps, now you should be ab
 
 # Part 4: Submitting the PA (Lab Work Checkoff)
 
-**PA 1 GitHub Classroom Link:** [https://classroom.github.com/a/pGoD-4Uz](https://classroom.github.com/a/pGoD-4Uz)
+**PA 1 GitHub Classroom Link:** [https://classroom.github.com/a/pff3Avby](https://classroom.github.com/a/pff3Avby)
 
 To get the final 1 point for lab work checkoff this week (out of 4 total points), you just need to make a submission on Gradescope for `pa1`! 
 
