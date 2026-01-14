@@ -26,7 +26,7 @@ better!
 - Final exam: [AP&M Testing Center](https://map.concept3d.com/?id=1005#!m/167186?share), flexible scheduling in final exam week on [PrairieTest](https://us.prairietest.com/)
 - Professor office hours:
   - Tuesday 2:30-3:30pm, CSE 3206 (advising focused, open to all students)
-  - Wednesday 1:30-2:30pm CSE B260 (CSE29 students only)
+  - Wednesday 1:30-2:30pm CSE B270 (CSE29 students only)
 - Office Hours: Refer to calendar
 - Q&A forum: [Piazza](https://piazza.com/class/mjz0y0rvk9c2lw)
 - PrairieLearn: [https://us.prairielearn.com](https://us.prairielearn.com)
