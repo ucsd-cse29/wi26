@@ -45,11 +45,11 @@ better!
     - [Binary and Data Representaion (Sec 4.1-4.6)](https://diveintosystems.org/book/C4-Binary/bases.html)
     - [Arrays in C](https://diveintosystems.org/book/C2-C_depth/arrays.html)
     - [Scanf](https://diveintosystems.org/book/C2-C_depth/IO.html#_scanf) and [fgets](https://diveintosystems.org/book/C2-C_depth/IO.html#_file_inputoutput) (though this week we'll only use `fgets` with `stdin`)
-
-- **Week 1: Welcome, Strings and Bitwise Representations**
   - **Lecture Materials**
     - Tuesday
       - Annotated Handout:  [12:30pm](lec/01-13-utf8/lecture_notes_jan13_1230.pdf)
+
+- **Week 1: Welcome, Strings and Bitwise Representations**
   - **Readings and Videos**
     - [The UNIX Command Line](https://diveintosystems.org/book/Appendix2/cmdln_basics.html)
     - [Arrays and Strings (In C)](https://diveintosystems.org/book/C1-C_intro/arrays_strings.html)
