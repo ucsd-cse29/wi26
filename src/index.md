@@ -40,6 +40,12 @@ better!
 
 # Schedule
 
+- **Week 2: Numbers, Bitwise Representations, and UTF8
+  - **Readings**
+    - [Binary and Data Representaion (Sec 4.1-4.6)](https://diveintosystems.org/book/C4-Binary/bases.html)
+    - [Arrays in C](https://diveintosystems.org/book/C2-C_depth/arrays.html)
+    - [Scanf](https://diveintosystems.org/book/C2-C_depth/IO.html#_scanf) and [fgets](https://diveintosystems.org/book/C2-C_depth/IO.html#_file_inputoutput) (though this week we'll only use `fgets` with `stdin`)
+
 - **Week 1: Welcome, Strings and Bitwise Representations**
   - **Readings and Videos**
     - [The UNIX Command Line](https://diveintosystems.org/book/Appendix2/cmdln_basics.html)

@@ -1,17 +1,11 @@
 #include <stdio.h>
 
 void uppercase(char str[]) {
-
-
-
-
-
-
-
-
-
-
-
+  for(int i = 0; str[i] != '\0'; i += 1) {
+    if(str[i] >= 'a' && str[i] <= 'z') {
+      str[i] = str[i] - 32;    
+    }
+  }
 }
 
 void inspect(char str[]) {
@@ -37,5 +31,15 @@ int main() {
 
     // After this call, message should contain "HELLO!"
     uppercase(message);
+    inspect(message);
     printf("After uppercase: %s\n", message);
+    inspect(message);
 }
+
+
+
+
+
+
+
+
