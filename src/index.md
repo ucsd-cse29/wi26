@@ -48,8 +48,9 @@ better!
   - **Lecture Materials**
     - Tuesday
       - [Annotated Handout](lec/01-13-utf8/lecture_notes_jan13_1230.pdf)
-      - [Lecture Summary Slides](lec/01-13-utf8/summary.pdf)
-      - [Lecture Summary with Speaker Notes](lec/01-13-utf8/summary-speaker.pdf)
+      - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1cRRvTVp51jdFaTYUi8OXC87oPspze_PvLfmA-4wKvQs/edit?usp=sharing)
+      - [Lecture Summary Slides PDF](lec/01-13-utf8/summary.pdf)
+      - [Lecture Summary with Speaker Notes PDF](lec/01-13-utf8/summary-speaker.pdf)
 
 - **Week 1: Welcome, Strings and Bitwise Representations**
   - **Readings and Videos**
@@ -60,12 +61,14 @@ better!
   - **Lecture Materials**
     - Tuesday
       - Annotated Handout: [11am](lec/01-06-welcome/lecture_notes_jan6_11am.pdf) [12:30pm](lec/01-06-welcome/ScanJan06,2026Joe'sNotes.pdf)
+      - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1HU3oxK0Ll9bZU0Bfe_wApEpr22mc7FoXy2VItm80sQs/edit?usp=sharing)
       - [Lecture Summary](lec/01-06-welcome/summary.pdf)
     - Thursday
       - [Handout](lec/01-08-cstring/lecture.pdf)
       - Annotated Handout: [11am](lec/01-08-cstring/lecture_notes_jan8_11am.pdf) [12:30pm](lec/01-08-cstring/lecture_notes_jan8_1230pm.pdf)
-      - [Lecture Summary Slides](lec/01-08-cstring/summary.pdf)
-      - [Lecture Summary with Speaker Notes](lec/01-08-cstring/summary-speaker.pdf)
+      - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1JnVmaynuFIONcT_NwLhC26n0no-XZ0uqr4zjAQr_nZQ/edit?usp=sharing)
+      - [Lecture Summary Slides PDF](lec/01-08-cstring/summary.pdf)
+      - [Lecture Summary with Speaker Notes PDF](lec/01-08-cstring/summary-speaker.pdf)
 # Course Components
 
 There are three main parts of the course: **Assignments**, **Exams**, and
