@@ -47,7 +47,9 @@ better!
     - [Scanf](https://diveintosystems.org/book/C2-C_depth/IO.html#_scanf) and [fgets](https://diveintosystems.org/book/C2-C_depth/IO.html#_file_inputoutput) (though this week we'll only use `fgets` with `stdin`)
   - **Lecture Materials**
     - Tuesday
-      - Annotated Handout:  [12:30pm](lec/01-13-utf8/lecture_notes_jan13_1230.pdf)
+      - [Annotated Handout](lec/01-13-utf8/lecture_notes_jan13_1230.pdf)
+      - [Lecture Summary Slides](lec/01-13-utf8/summary.pdf)
+      - [Lecture Summary with Speaker Notes](lec/01-13-utf8/summary-speaker.pdf)
 
 - **Week 1: Welcome, Strings and Bitwise Representations**
   - **Readings and Videos**
