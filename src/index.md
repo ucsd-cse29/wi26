@@ -40,7 +40,7 @@ better!
 
 # Schedule
 
-- **Week 2: Numbers, Bitwise Representations, and UTF8
+- **Week 2: Numbers, Bitwise Representations, and UTF8**
   - **Readings**
     - [Binary and Data Representaion (Sec 4.1-4.6)](https://diveintosystems.org/book/C4-Binary/bases.html)
     - [Arrays in C](https://diveintosystems.org/book/C2-C_depth/arrays.html)
