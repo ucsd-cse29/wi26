@@ -51,6 +51,8 @@ better!
       - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1cRRvTVp51jdFaTYUi8OXC87oPspze_PvLfmA-4wKvQs/edit?usp=sharing)
       - [Lecture Summary Slides PDF](lec/01-13-utf8/summary.pdf)
       - [Lecture Summary with Speaker Notes PDF](lec/01-13-utf8/summary-speaker.pdf)
+	- Thursday
+      - [Annotated Handout](lec/01-15-utf8_2/lecture_notes_jan15_1100.pdf)
 
 - **Week 1: Welcome, Strings and Bitwise Representations**
   - **Readings and Videos**
