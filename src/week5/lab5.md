@@ -1,14 +1,8 @@
 # Lab 5 Reference Document
 
 
-Part 1: `.vimrc` addendum and ssh `config`
+Part 1: ssh `config`
 --------------------------------
-
-In the file `~/.vimrc` on ieng6, add:
-
-```
-set cindent
-```
 
 On Your computer (not ieng6) create the file `~/.ssh/config`:
 
