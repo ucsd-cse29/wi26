@@ -54,10 +54,9 @@ better!
 	- Thursday
       - [Handout](lec/01-15-utf8analyzer/lecture.pdf)
       - 11 am
-        - [Annotated Handout](lec/01-15-utf8_2/lecture_notes_jan15_1100.pdf)
+        - [Annotated Handout](lec/01-15-utf8analyzer/lecture_notes_jan15_1100.pdf)
         - [Code](lec/01-15-utf8analyzer/utf8analyzer-filled-11.c)
       - 12:30 pm
-        - [Annotated Handout](lec/01-15-utf8analyzer/)
         - [Code](lec/01-15-utf8analyzer/utf8analyzer-filled-1230.c)
 
 - **Week 1: Welcome, Strings and Bitwise Representations**
