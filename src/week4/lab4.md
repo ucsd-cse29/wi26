@@ -16,7 +16,7 @@ Create the file `~/.vimrc` on ieng6, and copy in:
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
-set autoindent
+set cindent
 set number
 ```
 
