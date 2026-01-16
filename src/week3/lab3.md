@@ -20,7 +20,7 @@ If you don’t have a laptop or it isn’t set up with a linux terminal, work fr
 
 # Part 2: Debugging with -Wall 
 Clone the repository we’ll be using for this lab (you’ll need to get the ssh URL). You’ll be working with one of the three programs, depending on your group: 
-[https://classroom.github.com/a/X-DdsPq-](https://classroom.github.com/a/X-DdsPq-)
+[https://classroom.github.com/a/tYCFrrGl](https://classroom.github.com/a/tYCFrrGl)
 
 Many common errors can be caught by the compiler, but a lot of these checks aren't enabled by default. We can ask the compiler to warn us by adding the `-Wall` flag ("- W(arn) all") when you compile:
 ```
