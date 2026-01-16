@@ -55,6 +55,9 @@ better!
       - [Handout](lec/01-15-utf8analyzer/lecture.pdf)
       - Annotated Handout: [11am](lec/01-15-utf8analyzer/lecture_notes_jan15_1100.pdf)
       - Code: [11am](lec/01-15-utf8analyzer/utf8analyzer-filled-11.c) [12:30 pm](lec/01-15-utf8analyzer/utf8analyzer-filled-1230.c)
+      - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1Nd50vIY-Jpc0BkSI2Owg2HT0leJGeELi7-y2HfXWJcc/edit?usp=sharing)
+      - [Lecture Summary Slides PDF](lec/01-15-utf8analyzer/summary.pdf)
+      - [Lecture Summary with Speaker Notes PDF](lec/01-15-utf8analyzer/summary-speaker.pdf)
 
 - **Week 1: Welcome, Strings and Bitwise Representations**
   - **Readings and Videos**
