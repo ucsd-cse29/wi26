@@ -40,6 +40,13 @@ better!
 
 # Schedule
 
+
+- **Week 3 – Where (Some) Things Are in Memory**
+  - **Readings**
+    - [Debugging with GDB](https://diveintosystems.org/book/C3-C_debug/gdb.html)
+    - [Arrays in C](https://diveintosystems.org/book/C2-C_depth/arrays.html)
+    - [Pointers and Functions](https://diveintosystems.org/book/C2-C_depth/pointers_functions.html)
+
 - **Week 2: Numbers, Bitwise Representations, and UTF8**
   - **Readings**
     - [Binary and Data Representaion (Sec 4.1-4.6)](https://diveintosystems.org/book/C4-Binary/bases.html)
