@@ -42,6 +42,9 @@ better!
 
 
 - **Week 3 – Where (Some) Things Are in Memory**
+  - **Lecture**
+    - Tuesday
+      - [Blank Handout](lec/01-20-arrays/lecture.pdf)
   - **Readings**
     - [Debugging with GDB](https://diveintosystems.org/book/C3-C_debug/gdb.html)
     - [Pointers and Functions](https://diveintosystems.org/book/C2-C_depth/pointers_functions.html)
