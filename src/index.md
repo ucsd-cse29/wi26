@@ -42,13 +42,13 @@ better!
 
 
 - **Week 3 – Where (Some) Things Are in Memory**
-  - **Lecture**
-    - Tuesday
-      - [Blank Handout](lec/01-20-arrays/lecture.pdf)
   - **Readings**
     - [Debugging with GDB](https://diveintosystems.org/book/C3-C_debug/gdb.html)
     - [Pointers and Functions](https://diveintosystems.org/book/C2-C_depth/pointers_functions.html)
-
+  - **Lecture**
+    - Tuesday
+      - [Blank Handout](lec/01-20-arrays/lecture.pdf)
+	  - Annotated Handout: [11am](lec/01-20-arrays/lecture_notes_jan20_1100.pdf)
 - **Week 2: Numbers, Bitwise Representations, and UTF8**
   - **Readings**
     - [Binary and Data Representaion (Sec 4.1-4.6)](https://diveintosystems.org/book/C4-Binary/bases.html)
