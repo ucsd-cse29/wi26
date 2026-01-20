@@ -48,7 +48,8 @@ better!
   - **Lecture**
     - Tuesday
       - [Blank Handout](lec/01-20-arrays/lecture.pdf)
-	  - Annotated Handout: [11am](lec/01-20-arrays/lecture_notes_jan20_1100.pdf)
+	  - Annotated Handout: [11am](lec/01-20-arrays/lecture_notes_jan20_1100.pdf) [12:30pm](lec/01-20-arrays/lecture_notes_jan20_1230.pdf)
+
 - **Week 2: Numbers, Bitwise Representations, and UTF8**
   - **Readings**
     - [Binary and Data Representaion (Sec 4.1-4.6)](https://diveintosystems.org/book/C4-Binary/bases.html)
