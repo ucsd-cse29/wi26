@@ -14,7 +14,12 @@ If you don’t have a laptop or it isn’t set up with a linux terminal, work fr
 - Use `vim` to paste in the contents of the new public key into the `authorized_keys` file
   - (if your `authorized_keys` already existed, paste the new key on a new line at the end)
 3. Log out from `ieng6` (use `exit`), and make sure you can ssh into it without typing your password
+- If you used a different name than `id_rsa`, you have to ssh with a `-i [private key path]` flag
 
+## Color ls
+1. Use vim to edit the following file in your home directory: `vim .bash_profile`
+2. Add a line to the end of this file (you can scroll to the bottom of the file, and press ‘o’ to enter insert mode on a new line): `alias ls="ls --color"`
+- if you have file permission issues, you can use `sudo chmod u+rwx ~/.bash_profile` (or search up ways to fix permission issues for your `.bash_profile`)
 
 
 
