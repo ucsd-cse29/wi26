@@ -73,7 +73,7 @@ or
 If you’re done early, use the reference card to try exploring other gdb commands!
 
 
-# Lab 3 Work Check-Off (due Monday, Oct 20):
+# Lab 3 Work Check-Off (due before next Tuesday lecture):
 In your copy of the [lab3-buggy repo](https://classroom.github.com/a/tYCFrrGl): fix the bugs in your assigned program, then commit and push your changes so they show up on GitHub.
 
 
