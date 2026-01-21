@@ -49,6 +49,10 @@ better!
     - Tuesday
       - [Blank Handout](lec/01-20-arrays/lecture.pdf)
 	  - Annotated Handout: [11am](lec/01-20-arrays/lecture_notes_jan20_1100.pdf) [12:30pm](lec/01-20-arrays/lecture_notes_jan20_1230.pdf)
+    - Code
+      - pre-lecture: [analyzer.c](lec/01-20-arrays/analyzer.c)
+      - 11am [analyzer.c](lec/01-20-arrays/from-ieng6/analyzer-A.c) [adjacent.c](lec/01-20-arrays/from-ieng6/adjacent-A.c)
+      - 12:30pm [analyzer.c](lec/01-20-arrays/from-ieng6/analyzer-B.c) [adjacent.c](lec/01-20-arrays/from-ieng6/adjacent-B.c)
 
 - **Week 2: Numbers, Bitwise Representations, and UTF8**
   - **Readings**
@@ -57,6 +61,7 @@ better!
     - [Scanf](https://diveintosystems.org/book/C2-C_depth/IO.html#_scanf) and [fgets](https://diveintosystems.org/book/C2-C_depth/IO.html#_file_inputoutput) (though this week we'll only use `fgets` with `stdin`)
   - **Lecture Materials**
     - Tuesday
+      - [Handout](lec\01-13-utf8\lecture.pdf)
       - [Annotated Handout](lec/01-13-utf8/lecture_notes_jan13_1230.pdf)
       - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1cRRvTVp51jdFaTYUi8OXC87oPspze_PvLfmA-4wKvQs/edit?usp=sharing)
       - [Lecture Summary Slides PDF](lec/01-13-utf8/summary.pdf)
@@ -77,6 +82,7 @@ better!
     - [Counting 0 bits](https://www.youtube.com/watch?v=M5mVVJHpNQ8)
   - **Lecture Materials**
     - Tuesday
+      - [Handout](lec\01-06-welcome\lecture.pdf)
       - Annotated Handout: [11am](lec/01-06-welcome/lecture_notes_jan6_11am.pdf) [12:30pm](lec/01-06-welcome/ScanJan06,2026Joe'sNotes.pdf)
       - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1HU3oxK0Ll9bZU0Bfe_wApEpr22mc7FoXy2VItm80sQs/edit?usp=sharing)
       - [Lecture Summary](lec/01-06-welcome/summary.pdf)
