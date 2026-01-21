@@ -43,7 +43,7 @@ Uppercased ASCII: "MY 🐩’S NAME IS ERDőS."
 Length in bytes: 27
 Number of code points: 21
 Bytes per code point: 1 1 1 4 3 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1
-Substring of the first 6 code points: "My 🐩’s"
+Substring of the first 6 code points: My 🐩’s
 Code points as decimal numbers: 77 121 32 128041 8217 115 32 110 97 109 101 32 105 115 32 69 114 100 337 115 46
 Animal emojis: 🐩
 Next character of code point at index 3: 🐪
