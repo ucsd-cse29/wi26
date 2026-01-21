@@ -2,6 +2,8 @@
 
 ## Due Date: ~~Monday 01/19~~ Tuesday 01/20 at 11:59pm
 
+Looking for resubmission? [Click here](https://ucsd-cse29.github.io/wi26/pa/pa1/resubmission/index.html)
+
 ## UTF-8
 
 Representing text is straightforward using ASCII: one byte per character fits well within `char[]` and it represents most English text. However, there are many more than 256 characters in the text we use, from non-Latin alphabets (Cyrillic, Arabic, and Chinese character sets, etc.) to emojis and other symbols like €, to accented characters like é and ü.
