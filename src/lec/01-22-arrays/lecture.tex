@@ -4,32 +4,26 @@
 
 \begin{document}
 
-\CenterWallPaper{1}{memory-template2.pdf}
+\CenterWallPaper{1}{memory-template.pdf}
 
 \begin{minipage}[t]{0.45\textwidth}
 
-\lstinputlisting[basicstyle=\ttfamily\tiny]{concat.c}
+\lstinputlisting[basicstyle=\ttfamily\scriptsize]{concat.c}
 
-\begin{shell}[linewidth=24em, basicstyle=\ttfamily\tiny]
+\begin{shell}[linewidth=30em, basicstyle=\ttfamily\scriptsize]
 $ gcc concat.c -o concat
-concat.c:29:10: warning: address of stack
-  memory associated with local variable
-  'result' returned [-Wreturn-stack-address]
-   29 |   return result;
+concat.c:22:10: warning: address of stack memory associated with local variable 'result' returned [-Wreturn-stack-address]
+   22 |   return result;
       |          ^~~~~~
 $ ./concat
-vec1:   0x16d0df010
-vec2:   0x16d0df000
-result: 0x16d0def40
-vec1:   0x16d0deff0
-vec2:   0x16d0def40
-result: 0x16d0def40
+vec1:   0x16f563010     vec2:   0x16f563000     result: 0x16f562f40
+vec1:   0x16f562ff0     vec2:   0x16f562f40     result: 0x16f562f40
 first element of v3, v5: 100.000000 100.000000
-v1: 0x16d0df010
-v2: 0x16d0df000
-v3: 0x16d0def40
-v4: 0x16d0deff0
-v5: 0x16d0def40
+v1: 0x16f563010
+v2: 0x16f563000
+v3: 0x16f562f40
+v4: 0x16f562ff0
+v5: 0x16f562f40
 \end{shell}
 
 \end{minipage}
@@ -45,9 +39,9 @@ v5: 0x16d0def40
 
 \begin{minipage}[t]{0.45\textwidth}
 
-\lstinputlisting[basicstyle=\ttfamily\tiny]{wheresmystuff.c}
+\lstinputlisting[basicstyle=\ttfamily\scriptsize]{wheresmystuff.c}
 
-\begin{shell}[linewidth=24em, basicstyle=\ttfamily\tiny]
+\begin{shell}[linewidth=24em, basicstyle=\ttfamily\scriptsize]
 $ # NOTE - Joe ran this on his Macbook to get this output
 $ gcc wheresmystuff.c -o wheresmystuff
 $ ./wheresmystuff

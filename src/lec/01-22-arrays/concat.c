@@ -1,32 +1,25 @@
 #include <stdio.h>
 #include <stdint.h>
 
-// vector_sum: takes two vectors represented as array of double and adds them
-// together by adding the components at each index. Return a new array
+// vector_sum: takes two vectors represented as double[]
+// adds them together component-wise in a new array
 // vector_sum({ 1.2, 3.4 }, {-1.0, 3.6 }) => { 0.2, 7.0 }
 // Assume the vectors have the same length
 
-/* Q: What happens if double[] is used as a return type?
+// Q: What happens if double[] is used as a return type?
+// double[] vector_sum(double vec1[], double vec2[]);
 
-double[] vector_sum(double vec1[], double vec2[]);
-*/
-
-/* We can use double* as a return type though!
-   Q: What problem will we have with this version?
-
-double* vector_sum(double vec1[], double vec2[]) {
-  double result[...];
-}
-*/
+// Q: What about using double* as return type?
+// double* vector_sum(double vec1[], double vec2[])
 
 // Pass in length as an argument. Maybe now we've got it!
 double* vector_sum(double vec1[], double vec2[], int len) {
-  double result[len];
-  printf("vec1:\t%p\nvec2:\t%p\nresult:\t%p\n", vec1, vec2, result);
+  double res[len];
+  printf("vec1:\t%p\tvec2:\t%p\tres:\t%p\n", vec1, vec2, res);
   for(int i = 0; i < len; i += 1) {
-    result[i] = vec1[i] + vec2[i];
+    res[i] = vec1[i] + vec2[i];
   }
-  return result;
+  return res;
 }
 
 int main() {
@@ -44,7 +37,6 @@ int main() {
   printf("v3: %p\n", v3);
   printf("v4: %p\n", v4);
   printf("v5: %p\n", v5);
-
 }
 
 
