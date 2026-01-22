@@ -115,9 +115,9 @@ Did not find a matching password
 ## What to Hand In
 
 - Any .c files you wrote (can be one file or many; it's totally reasonable to only have one). We will compile your code, so you should make sure it works when we do that.
-- Submit the Gradescope assignment containing the answers to the design questions
-
 You will hand in your code to the `pa2` assignment on Gradescope. An autograder will give you information about if your code compiles and works on some simple examples like the ones from this writeup.
+
+- Submit your answers to the design questions on Gradescope under the assignment `PA2 Design Questions`.
 
 ## Fun (and Authentic!) Testing
 
