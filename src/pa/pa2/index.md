@@ -108,9 +108,34 @@ Did not find a matching password
 
 ## Design Questions
 
-1. Real password crackers try many more variations than just uppercasing and lowercasing. Do a little research on password cracking and suggest at least 2 other ways to vary a password to crack it. Describe them both, and for each, write a sentence or two about what modifications you would make to your code to implement them. (You don't have to actually implement them).
+### Problem 1
 
-2. How much working memory is needed to store all of the variables needed to execute the password cracker? Based on your response would you say that a password cracker is more memory-limited or is it more limited by how fast the process can run the code?
+The time  command takes another command and reports how long it took to run. Use the time  command on your password cracker for a password that will not match anything in the rockyou file (so it tests all of the passwords).
+
+Show the output of the time  command for your ./pwcrack  on that input
+Calculate (or use your program to count) the total number of times you called the SHA256  function and checked a hash against the input
+How many password variants, on average, does your password cracker check per second?
+
+### Problem 2
+
+Consider this run of your password cracker:
+
+```
+$ ./pwcrack 5118f76d9067edc593d6946b88693cefa6604c7e613111193db118166d4af589
+apple
+alpaca
+backpack
+Found SHA256(Backpack) = 5118f76d9067edc593d6946b88693cefa6604c7e613111193db118166d4af589
+```
+
+At some point in the run, your password cracker should hash and check the string alPaca .
+
+For that moment in the program, right when your program would call SHA256  on that string:
+
+- Copy/paste your code into your answer
+- What function calls are active in your program? That is, which function is currently executing? Which function was it called from? And so on, up to main .
+- For each of those function calls, what are the values of the arguments?
+- For each of those function calls, what are the values of all the local variables?
 
 ## What to Hand In
 
@@ -123,16 +148,10 @@ You will hand in your code to the `pa2` assignment on Gradescope. An autograder 
 
 To help testing your PA, we are providing you with a file containing 3 million real plaintext passwords famously found a data breach of the [RockYou
 social network](https://en.wikipedia.org/wiki/RockYou) in 2009. You can use the password file present in the `ieng6` servers by reading it into `pwcrack` using
-the following commandline if you're in Joe's section:
+the following commandline:
 
 ```
 $./pwcrack a2c3b02cb22af83d6d1ead1d4e18d916599be7c2ef2f017169327df1f7c844fd < /home/linux/ieng6/CSE29_FA25_A00/public/pa2/rockyou_clean.txt
-```
-
-and the following command if you're in Aaron's section:
-
-```
-$./pwcrack a2c3b02cb22af83d6d1ead1d4e18d916599be7c2ef2f017169327df1f7c844fd < /home/linux/ieng6/CSE29_FA25_B00/public/pa2/rockyou_clean.txt
 ```
 
 Note: these are real human-generated passwords, so they may contain profane words (and offensive concepts). We are providing a
