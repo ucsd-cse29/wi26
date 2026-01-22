@@ -48,6 +48,7 @@ better!
   - **Lecture**
     - Thursday
       - [Blank Handout](lec/01-22-arrays/lecture.pdf)
+      - Annotated Handout: [11am](lec/01-22-arrays/lecture-notes-1-22-11am.pdf)
     - Tuesday
       - [Blank Handout](lec/01-20-arrays/lecture.pdf)
       - Annotated Handout: [11am](lec/01-20-arrays/lecture_notes_jan20_1100.pdf) [12:30pm](lec/01-20-arrays/lecture_notes_jan20_1230.pdf)
