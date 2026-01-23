@@ -1,7 +1,7 @@
 # Lab 4 Reference Document
 
 
-Part 1: `.vimrc` and `.bash_profile`
+Part 1: `.vimrc`, `.bash_profile`, and 'ssh config'
 --------------------------------
 
 In the file `~/.bash_profile` on ieng6, add:
@@ -20,67 +20,102 @@ set cindent
 set number
 ```
 
-Part 2: Writing a Search Program
+On **Your computer (not ieng6)** create the file `~/.ssh/config`:
+
+```
+Host <shortcut> <possibly more shortcuts>
+    HostName <the host name of the ssh server>
+    User <your username on the ssh server>
+
+```
+
+Part 2: GDB Debugging
 --------------------------------
 
-(clone the github classroom repo from here: <https://classroom.github.com/a/nzV8A2UB>)
+### New GDB commands
+#### `start [ARGUMENTS]`
 
-For this lab, you'll be testing your program on the "rockyou" password list from your PA2, you can copy it over from this path on ieng6:
+Starts the program with the specified arguments and pauses at the first line of `main`.
 
-`/home/linux/ieng6/CSE29_FA25_A00/public/pa2/rockyou_clean.txt`
+#### `break LINE_NUMBER`
 
-You'll be writing "mysearch.c". Your program should take 1 argument (the string to search for). It should read lines from standard input, and print out all of the input lines that contain the search string.
+Sets a **breakpoint** at the specified line number. (**Breakpoint**: a line in the program at which GDB will stop at before the line executes.)
 
-```
-./mysearch PATTERN
-```
+#### `next`
 
-You can use the `strstr()` function to search for a string within another string.
+Executes to the next line of code.
 
-Part 3: Extra Options
+#### `step`
+
+If the next line contains a function call, steps into the first line of the function. Otherwise, behaves the same way as `next`.
+
+#### `continue`
+
+Continues running the program until the next breakpoint.
+
+--
+
+![Screenshot of GDB](gdb_line.png)
+
+The line that is shown above the `(gdb)` prompt *has not run yet*. It is the line that will run if you type `next`.
+
+
+### Activity
+
+(clone the github classroom repo from here: <https://classroom.github.com/a/iSlIHwXP>)
+
+Part 3: Hacking
 ---------------------
 
-Expand your program to handle extra flags: 
+## 3.1. Background
 
-`./mysearch -n PATTERN` : print line numbers before each line
+Imagine that you're a less ethical student than I'm sure you actually are. You
+overhear from some other students in lab that there's a binary available on the
+pi-cluster that can show you your grades on assignments before we formally
+release them. You hear quieter whispers that someone found a way to use it to
+_change_ their grade. Given our less-than-ethical assumption about your state
+of mind, you might be tempted to exploit this for yourself.  
 
-`./mysearch -v PATTERN` : print only lines that don't contain PATTERN
+## 3.2. The Plot Thickens
 
-`./mysearch -c PATTERN` : don't print pattern matches, just print out the count of matching lines at the end
+You see some code open on the professor's laptop during office hours.  You do
+your best to commit it to memory and write it down (remember, you're acting
+quite unethically in this story), because it strikes you that the code was
+something regarding assignment scores.  
+![gradebook source code](../images/gradebook_src.png)
 
-Each person in your group should implement a different one of these; you'll need all three to do the whiteboard activity.
+Using this information, you decide to give yourself and A with a score 
+to match while maintaining a real due date.  
+**HINT**
+When important values are adjacent on the stack, overflowing an array with
+values that you control can let you assign into other stack-allocated values.
 
-You can use the `strcmp()` function to check whether two strings are equal.
+
+GDB commands that may be useful for this activity:
+
+-   `(gdb) info locals`
+
+-   `(gdb) info args`
+
+-   `(gdb) print VALUE (or p VALUE)` You can print any variable or expression, e.g.
+
+-   `print x`, `p arr[5]`, `p ((x & 0b1111) << 3)`
+
+-   You can also specify a format to print in
+
+-   `print/t` (binary), `print/x` (hex), `print/d` (decimal)
+
+-   `(gdb) x ADDRESS` This prints out memory at an address, e.g. strings / arrays / pointers
+
+-   `(gdb) x/16cb str1` This prints the first 16 bytes of `str1` as characters
+
+-   `(gdb) x/20xb str2` This prints 20 bytes of `str2` in hex
+
+-   `(gdb) x/4dw  arr` This prints 4 "words" (i.e. `int32s`) of `arr`, as decimal numbers
+
+-   You can use the following [reference card](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf) for reference on gdb commands, and format commands for x and print.
 
 Work Check-off
 --------------
 
-~~Make sure your program supports at least one of `-n`, `-v`, or `-c`, and commit/push your code.~~  
-Make sure you have committed and pushed the code you were working on for your `-n`, `-v`, or `-c` file from the lab activity.
-
-If done early, implement some of the following (in no particular order)
-------------------------------------------------------------------------------
-
--   Make your program handle all 3 of `-n`, `-v`, and `-c`.
-
--   Add the option `-i`, for case-insensitive search (i.e. `search -i pattern` should match lines containing "Pattern" or "PATTERN")
-
--   Use [ANSI Escape Codes](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797) to make your program bold or highlight the matches in every matching line, either always or with a `--color` option. (more info on [Wikipedia](https://en.wikipedia.org/wiki/ANSI_escape_code))
-
--   Add the option `-A` to print extra context after a match, so e.g. `search -A 2 pattern` would print an extra 2 lines after every match.
-
--   Add the option `-B` to print extra context before a match (`search -B 2 pattern` would print an extra 2 lines before every match.) (Note: to be able to do this in C with the tools we've seen so far, you might need to set an upper limit on how many lines back your program will be able to support)
-
--   Make your program handle options more flexibly, e.g. it could:
-
-    -   be able to handle multiple options simultaneously 
-
-    -   accept arguments in any order
-
-    -   exit with a help message for unrecognized options (e.g. -f, -o) instead of treating them as search patterns. (Or if you pass it the -h or --help options) 
-
-    -   if it sees the option "--",  treat all following arguments as search patterns, even if they start with a "-". (This is how actual command line programs allow you to search for the string "-n" instead of specifying the "-n" option.)
-
-    -   allow long versions of options, e.g. `--invert-match`, `--line-number`, `--count`, etc
-    
-
+Push a copy-paste or screenshot of your `gdb` session from part 2 when investigating `index_of_E` to the github classroom assignment for this lab.
