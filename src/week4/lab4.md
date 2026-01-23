@@ -82,7 +82,7 @@ You see some code open on the professor's laptop during office hours.  You do
 your best to commit it to memory and write it down (remember, you're acting
 quite unethically in this story), because it strikes you that the code was
 something regarding assignment scores.  
-![gradebook source code](../images/gradebook_src.png)
+![gradebook source code](gradebook_src.png)
 
 Using this information, you decide to give yourself and A with a score 
 to match while maintaining a real due date.  
