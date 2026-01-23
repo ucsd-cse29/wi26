@@ -55,6 +55,9 @@ better!
     - Thursday
       - [Blank Handout](lec/01-22-arrays/lecture.pdf)
       - Annotated Handout: [11am](lec/01-22-arrays/lecture-notes-1-22-11am.pdf)
+      - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1Byl6c43wEjSAydtNbHaI3uOhc-ug6eYhMCS6gcNxoEg/edit?usp=sharing)
+      - [Lecture Summary Slides PDF](lec/01-22-arrays/summary.pdf)
+      - [Lecture Summary with Speaker Notes PDF](lec/01-22-arrays/summary-speaker.pdf)
     - Tuesday
       - [Blank Handout](lec/01-20-arrays/lecture.pdf)
       - Annotated Handout: [11am](lec/01-20-arrays/lecture_notes_jan20_1100.pdf) [12:30pm](lec/01-20-arrays/lecture_notes_jan20_1230.pdf)
