@@ -47,7 +47,7 @@ better!
     - [`make` and Makefiles](https://diveintosystems.org/book/Appendix2/makefiles.html#_make_and_makefiles)
   - **Lectures**
     - Tuesday
-    - [Blank Handout]((lec/01-27-sizeof-arrays/lecture.pdf)
+    - [Blank Handout](lec/01-27-sizeof-arrays/lecture.pdf)
 	- [Annotated Handout](lec/01-27-sizeof-arrays/lecture_notes_jan27_1100.pdf)
 
 
