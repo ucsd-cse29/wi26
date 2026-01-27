@@ -46,14 +46,16 @@ better!
     - [C Structs](https://diveintosystems.org/book/C2-C_depth/structs.html)
     - [`make` and Makefiles](https://diveintosystems.org/book/Appendix2/makefiles.html#_make_and_makefiles)
   - **Lectures**
+    - Tuesday
     - [Blank Handout]((lec/01-27-sizeof-arrays/lecture.pdf)
+	- [Annotated Handout](lec/01-27-sizeof-arrays/lecture_notes_jan27_1100.pdf)
 
 
 - **Week 3 – Where (Some) Things Are in Memory**
   - **Readings**
     - [Debugging with GDB](https://diveintosystems.org/book/C3-C_debug/gdb.html)
     - [Pointers and Functions](https://diveintosystems.org/book/C2-C_depth/pointers_functions.html)
-  - **Lecture**
+  - **Lectures**
     - Thursday
       - [Blank Handout](lec/01-22-arrays/lecture.pdf)
       - Annotated Handout: [11am](lec/01-22-arrays/lecture-notes-1-22-11am.pdf) [12:30pm](lec/01-22-arrays/lecture-notes-1-22-1230pm.pdf)
