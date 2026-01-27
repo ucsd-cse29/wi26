@@ -47,8 +47,8 @@ better!
     - [`make` and Makefiles](https://diveintosystems.org/book/Appendix2/makefiles.html#_make_and_makefiles)
   - **Lectures**
     - Tuesday
-    - [Blank Handout](lec/01-27-sizeof-arrays/lecture.pdf)
-	- [Annotated Handout](lec/01-27-sizeof-arrays/lecture_notes_jan27_1100.pdf)
+	  - [Blank Handout](lec/01-27-sizeof-arrays/lecture.pdf)
+	  - [Annotated Handout](lec/01-27-sizeof-arrays/lecture_notes_jan27_1100.pdf)
 
 
 - **Week 3 – Where (Some) Things Are in Memory**
@@ -56,13 +56,7 @@ better!
     - [Debugging with GDB](https://diveintosystems.org/book/C3-C_debug/gdb.html)
     - [Pointers and Functions](https://diveintosystems.org/book/C2-C_depth/pointers_functions.html)
   - **Lectures**
-    - Thursday
-      - [Blank Handout](lec/01-22-arrays/lecture.pdf)
-      - Annotated Handout: [11am](lec/01-22-arrays/lecture-notes-1-22-11am.pdf) [12:30pm](lec/01-22-arrays/lecture-notes-1-22-1230pm.pdf)
-      - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1Byl6c43wEjSAydtNbHaI3uOhc-ug6eYhMCS6gcNxoEg/edit?usp=sharing)
-      - [Lecture Summary Slides PDF](lec/01-22-arrays/summary.pdf)
-      - [Lecture Summary with Speaker Notes PDF](lec/01-22-arrays/summary-speaker.pdf)
-    - Tuesday
+   - Tuesday
       - [Blank Handout](lec/01-20-arrays/lecture.pdf)
       - Annotated Handout: [11am](lec/01-20-arrays/lecture_notes_jan20_1100.pdf) [12:30pm](lec/01-20-arrays/lecture_notes_jan20_1230.pdf)
         - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/17LsYuKwBtcFxbuvJBuOh1g5mLLPJm433dT28MdOS4FQ/edit?usp=sharing)
@@ -72,7 +66,13 @@ better!
         - pre-lecture: [analyzer.c](lec/01-20-arrays/analyzer.c)
         - 11am [analyzer.c](lec/01-20-arrays/from-ieng6/analyzer-A.c) [adjacent.c](lec/01-20-arrays/from-ieng6/adjacent-A.c)
         - 12:30pm [analyzer.c](lec/01-20-arrays/from-ieng6/analyzer-B.c) [adjacent.c](lec/01-20-arrays/from-ieng6/adjacent-B.c)
-
+	- Thursday
+      - [Blank Handout](lec/01-22-arrays/lecture.pdf)
+      - Annotated Handout: [11am](lec/01-22-arrays/lecture-notes-1-22-11am.pdf) [12:30pm](lec/01-22-arrays/lecture-notes-1-22-1230pm.pdf)
+      - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1Byl6c43wEjSAydtNbHaI3uOhc-ug6eYhMCS6gcNxoEg/edit?usp=sharing)
+      - [Lecture Summary Slides PDF](lec/01-22-arrays/summary.pdf)
+      - [Lecture Summary with Speaker Notes PDF](lec/01-22-arrays/summary-speaker.pdf)
+    
 - **Week 2: Numbers, Bitwise Representations, and UTF8**
   - **Readings**
     - [Binary and Data Representaion (Sec 4.1-4.6)](https://diveintosystems.org/book/C4-Binary/bases.html)
