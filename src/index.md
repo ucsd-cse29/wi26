@@ -45,6 +45,8 @@ better!
     - [Processes](https://diveintosystems.org/book/C13-OS/processes.html), especially [fork](https://diveintosystems.org/book/C13-OS/processes.html#_fork) and [exec](https://diveintosystems.org/book/C13-OS/processes.html#_exec)
     - [C Structs](https://diveintosystems.org/book/C2-C_depth/structs.html)
     - [`make` and Makefiles](https://diveintosystems.org/book/Appendix2/makefiles.html#_make_and_makefiles)
+  - **Lectures**
+    - [Blank Handout]((lec/01-27-sizeof-arrays/lecture.pdf)
 
 
 - **Week 3 – Where (Some) Things Are in Memory**
