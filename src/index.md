@@ -48,7 +48,7 @@ better!
   - **Lectures**
     - Tuesday
 	  - [Blank Handout](lec/01-27-sizeof-arrays/lecture.pdf)
-	  - [Annotated Handout](lec/01-27-sizeof-arrays/lecture_notes_jan27_1100.pdf)
+	  - Annotated Handout [11am](lec/01-27-sizeof-arrays/lecture_notes_jan27_1100.pdf) [12:30pm](lec/01-27-sizeof-arrays/lecture_notes_jan27_1230.pdf)
 
 
 - **Week 3 – Where (Some) Things Are in Memory**
