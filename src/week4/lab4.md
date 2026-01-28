@@ -62,7 +62,7 @@ The line that is shown above the `(gdb)` prompt *has not run yet*. It is the lin
 
 ### Activity
 
-(clone the github classroom repo from here: <https://classroom.github.com/a/iSlIHwXP>)
+(clone the github classroom repo from here: <https://classroom.github.com/a/HivgO-T6>)
 
 Part 3: Hacking
 ---------------------
