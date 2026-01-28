@@ -49,6 +49,9 @@ better!
     - Tuesday
 	  - [Blank Handout](lec/01-27-sizeof-arrays/lecture.pdf)
 	  - Annotated Handout [11am](lec/01-27-sizeof-arrays/lecture_notes_jan27_1100.pdf) [12:30pm](lec/01-27-sizeof-arrays/lecture_notes_jan27_1230.pdf)
+    - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1yDffmWfC8KKirp6yNKtonhtnEWK10dGueqym_dPwLF4/edit?usp=sharing)
+    - [Lecture Summary Slides PDF](lec/01-27-sizeof-arrays/summary.pdf)
+    - [Lecture Summary with Speaker Notes PDF](lec/01-27-sizeof-arrays/summary-speaker.pdf)
 
 
 - **Week 3 – Where (Some) Things Are in Memory**
