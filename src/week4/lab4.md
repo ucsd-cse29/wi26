@@ -32,6 +32,12 @@ Host <shortcut> <possibly more shortcuts>
 Part 2: GDB Debugging
 --------------------------------
 
+To run a program in GDB with command-line arguments, use the --args flag:
+
+```
+gdb --args ./program arg1 arg2 arg3
+```
+
 ### New GDB commands
 #### `start [ARGUMENTS]`
 
