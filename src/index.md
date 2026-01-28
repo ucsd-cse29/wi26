@@ -33,6 +33,7 @@ better!
 - Textbook/readings: [Dive Into Systems](https://diveintosystems.org/book/), plus additional readings we will assign
   - Free: [MIT Missing Semester](https://missing.csail.mit.edu/)
   - Not free but pretty cheap: [Julia Evans Zines](https://wizardzines.com/), especially [The Pocket Guide to Debugging](https://wizardzines.com/zines/debugging-guide/)
+- Reference Sheets: [Google Doc](https://docs.google.com/document/d/1LbkMiVf9-d0Z21Xok-SUiLKItvoMmdYS0ADqMC_fsTI/edit?usp=sharing)
 
 # Office Hours Calendar
 
