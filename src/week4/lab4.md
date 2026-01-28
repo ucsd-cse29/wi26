@@ -59,6 +59,11 @@ If the next line contains a function call, steps into the first line of the func
 
 Continues running the program until the next breakpoint.
 
+#### `layout src`
+
+Shows a view of the code on the top, and a window for gdb interactions below.
+
+
 --
 
 ![Screenshot of GDB](gdb_line.png)
