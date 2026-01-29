@@ -1,10 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// char *strtok(char *str, const char *delim);
-// Returns a pointer to the next token in str, delimited by delim.
-// First call: pass the string. Subsequent calls: pass NULL.
-// Replaces delim with '\0'returns pointer into original string.
+// explore strtok
 
 int main() {
   char str[] = "Joe Politz,jpolitz@ucsd.edu,Instructor";
@@ -18,14 +15,6 @@ int main() {
   printf("a@%p: %p \"%s\"\n", &a, a, a);
   printf("b@%p: %p \"%s\"\n", &b, b, b);
   printf("c@%p: %p \"%s\"\n", &c, c, c);
-  printf("d@%p: %p\n", &d, d);
+  printf("d@%p: %p \"%s\"\n", &d, d, d);
 
-  printf("\nstr after strtok:\n");
-  for (int i = 0; i < 39; i++) {
-    if (i % 8 == 0) printf("%p:", &str[i]);
-    if (str[i]) printf(" '%c'", str[i]);
-    else printf(" NUL");
-    if (i % 8 == 7) printf("\n");
-  }
-  printf("\n");
 }
