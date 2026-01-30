@@ -47,19 +47,21 @@ better!
     - [C Structs](https://diveintosystems.org/book/C2-C_depth/structs.html)
     - [`make` and Makefiles](https://diveintosystems.org/book/Appendix2/makefiles.html#_make_and_makefiles)
   - **Lectures**
+    - Tuesday
+      - [Blank Handout](lec/01-27-sizeof-arrays/lecture.pdf)
+      - Annotated Handout [11am](lec/01-27-sizeof-arrays/lecture_notes_jan27_1100.pdf) [12:30pm](lec/01-27-sizeof-arrays/lecture_notes_jan27_1230.pdf)
+      - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1yDffmWfC8KKirp6yNKtonhtnEWK10dGueqym_dPwLF4/edit?usp=sharing)
+      - [Lecture Summary Slides PDF](lec/01-27-sizeof-arrays/summary.pdf)
+      - [Lecture Summary with Speaker Notes PDF](lec/01-27-sizeof-arrays/summary-speaker.pdf)
     - Thursday
       - [Blank Handout](lec/01-29-strktok-interior-pointer/lecture.pdf)
       - Annotated Handout [11am](lec/01-29-strktok-interior-pointer/lecture_notes_jan29_1100.pdf)[12:30pm](lec/01-29-strktok-interior-pointer/lecture_notes_jan29_1230.pdf)
-	  - Code
-		- strtok.c [11am](lec/01-29-strktok-interior-pointer/strtokA.c)[12:30pm](lec/01-29-strktok-interior-pointer/strtok.c)
-		- shell.c [11am](lec/01-29-strktok-interior-pointer/shellA.c)[12:30pm](lec/01-29-strktok-interior-pointer/shell.c)
-	- Tuesday
-  	  - [Blank Handout](lec/01-27-sizeof-arrays/lecture.pdf)
-  	  - Annotated Handout [11am](lec/01-27-sizeof-arrays/lecture_notes_jan27_1100.pdf) [12:30pm](lec/01-27-sizeof-arrays/lecture_notes_jan27_1230.pdf)
-        - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1yDffmWfC8KKirp6yNKtonhtnEWK10dGueqym_dPwLF4/edit?usp=sharing)
-        - [Lecture Summary Slides PDF](lec/01-27-sizeof-arrays/summary.pdf)
-        - [Lecture Summary with Speaker Notes PDF](lec/01-27-sizeof-arrays/summary-speaker.pdf)
-
+      - Code
+        - strtok.c [11am](lec/01-29-strktok-interior-pointer/strtokA.c)[12:30pm](lec/01-29-strktok-interior-pointer/strtok.c)
+        - shell.c [11am](lec/01-29-strktok-interior-pointer/shellA.c)[12:30pm](lec/01-29-strktok-interior-pointer/shell.c)
+      - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1jIK6wvp3Oft6-YXVM7BesZA2o_Jtr4lqy59Upjsz-gA/edit?usp=sharing)
+      - [Lecture Summary Slides PDF](lec/01-29-strktok-interior-pointer/summary.pdf)
+      - [Lecture Summary with Speaker Notes PDF](lec/01-29-strktok-interior-pointer/summary-speaker.pdf)
 
 - **Week 3 – Where (Some) Things Are in Memory**
   - **Readings**
@@ -82,7 +84,7 @@ better!
       - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1Byl6c43wEjSAydtNbHaI3uOhc-ug6eYhMCS6gcNxoEg/edit?usp=sharing)
       - [Lecture Summary Slides PDF](lec/01-22-arrays/summary.pdf)
       - [Lecture Summary with Speaker Notes PDF](lec/01-22-arrays/summary-speaker.pdf)
-    
+
 - **Week 2: Numbers, Bitwise Representations, and UTF8**
   - **Readings**
     - [Binary and Data Representaion (Sec 4.1-4.6)](https://diveintosystems.org/book/C4-Binary/bases.html)
@@ -95,7 +97,7 @@ better!
       - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1cRRvTVp51jdFaTYUi8OXC87oPspze_PvLfmA-4wKvQs/edit?usp=sharing)
       - [Lecture Summary Slides PDF](lec/01-13-utf8/summary.pdf)
       - [Lecture Summary with Speaker Notes PDF](lec/01-13-utf8/summary-speaker.pdf)
-	- Thursday
+    - Thursday
       - [Handout](lec/01-15-utf8analyzer/lecture.pdf)
       - Annotated Handout: [11am](lec/01-15-utf8analyzer/lecture_notes_jan15_1100.pdf) [12:30pm](lec/01-15-utf8analyzer/lecture_notes_jan15_1230.pdf)
       - Code: [11am](lec/01-15-utf8analyzer/utf8analyzer-filled-11.c) [12:30 pm](lec/01-15-utf8analyzer/utf8analyzer-filled-1230.c)
@@ -111,7 +113,7 @@ better!
     - [Counting 0 bits](https://www.youtube.com/watch?v=M5mVVJHpNQ8)
   - **Lecture Materials**
     - Tuesday
-      - [Handout](lec\01-06-welcome\lecture.pdf)
+      - [Handout](lec/01-06-welcome/lecture.pdf)
       - Annotated Handout: [11am](lec/01-06-welcome/lecture_notes_jan6_11am.pdf) [12:30pm](lec/01-06-welcome/ScanJan06,2026Joe'sNotes.pdf)
       - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1HU3oxK0Ll9bZU0Bfe_wApEpr22mc7FoXy2VItm80sQs/edit?usp=sharing)
       - [Lecture Summary](lec/01-06-welcome/summary.pdf)
@@ -121,6 +123,7 @@ better!
       - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1JnVmaynuFIONcT_NwLhC26n0no-XZ0uqr4zjAQr_nZQ/edit?usp=sharing)
       - [Lecture Summary Slides PDF](lec/01-08-cstring/summary.pdf)
       - [Lecture Summary with Speaker Notes PDF](lec/01-08-cstring/summary-speaker.pdf)
+
 # Course Components
 
 There are three main parts of the course: **Assignments**, **Exams**, and
