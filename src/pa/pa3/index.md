@@ -212,9 +212,9 @@ On `ieng6` , start your shell, and from your shell, run vim . Then, in another t
 ## What to Hand In
 
 - Submit your code to Gradescope
+- CREDITS.txt is required (more details on the [syllabus](https://ucsd-cse29.github.io/wi26/#assignments-and-academic-integrity))
 - We will run your program with `make` and `./pish` in both interactive and batch mode
-- Submit a PDF with your Design Question Answers on Gradescope
-- CREDITS.txt is required
+- Submit a **PDF** with your Design Question Answers on Gradescope
 
 ## Resources and Policy
 
