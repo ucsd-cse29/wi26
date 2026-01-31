@@ -1,4 +1,4 @@
-# PA3 - The Pioneer Shell: Due Thursday, February 12th at 11:59pm - [Github Classroom Link](https://classroom.github.com/a/qGin5nO-)
+# PA3 - The Pioneer Shell: Due Thursday, February 12th at 11:59pm - [Github Classroom Link](https://classroom.github.com/a/cpys2JKd)
 
 This assignment is from [CSE29
 SP24](https://cse29sp24.github.io/docs/pas/pa6.html#acknowledgements), which has
@@ -31,7 +31,7 @@ The **PIoneer SHell**, or as we endearingly call it, `pish` (a name with such el
 
 The starter code for this assignment is hosted on GitHub classroom. Use the following link to accept the GitHub Classroom assignment:
 
-Github Classroom: [https://classroom.github.com/a/qGin5nO-](https://classroom.github.com/a/qGin5nO-)
+Github Classroom: [https://classroom.github.com/a/cpys2JKd](https://classroom.github.com/a/cpys2JKd)
 
 ## Overall Task
 
