@@ -41,6 +41,15 @@ better!
 
 # Schedule
 
+- **Week 5 – Structs, Memory Management**
+  - **Readings**
+    - [Structs](https://diveintosystems.org/book/C2-C_depth/structs.html)
+    - [Dynamic Memory Allocation](https://diveintosystems.org/book/C2-C_depth/dynamic_memory.html)
+    - [(For a deep dive) The Lost Art of C Structure Packing](http://www.catb.org/esr/structure-packing/)
+  - **Lectures**
+    - Tuesday
+      - [Blank Handout](lec/02-03-fork-exec-shell/lecture.pdf)
+
 - **Week 4 – Processes and Memory**
   - **Readings**
     - [Processes](https://diveintosystems.org/book/C13-OS/processes.html), especially [fork](https://diveintosystems.org/book/C13-OS/processes.html#_fork) and [exec](https://diveintosystems.org/book/C13-OS/processes.html#_exec)
