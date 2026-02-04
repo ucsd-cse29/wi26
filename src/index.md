@@ -49,6 +49,9 @@ better!
   - **Lectures**
     - Tuesday
       - [Blank Handout](lec/02-03-fork-exec-shell/lecture.pdf)
+      - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1Ke-sEY9GUbXDj0glFAo1yA52GrBWku9VPTn4l5qAK3w/edit?usp=sharing)
+      - [Lecture Summary Slides PDF](lec/02-03-fork-exec-shell/summary.pdf)
+      - [Lecture Summary with Speaker Notes PDF](lec/02-03-fork-exec-shell/summary-speaker.pdf)
       - [layout.c (code from handout)](lec/02-03-fork-exec-shell/layout.c)
       - Notes on exam from Joe ---> [exam.txt](lec/02-03-fork-exec-shell/exam.txt)
       - Annotated Handout [12:30pm](lec/02-03-fork-exec-shell/lecture_notes_feb03_1230.pdf)
@@ -59,6 +62,7 @@ better!
        [Full Board](lec/02-03-fork-exec-shell/chalkboard5.png)
       - Code [shell.c](lec/02-03-fork-exec-shell/shell.c)
              [shell-complete.c](lec/02-03-fork-exec-shell//shell-complete.c)
+    - Thursday
 
 - **Week 4 – Processes and Memory**
   - **Readings**
