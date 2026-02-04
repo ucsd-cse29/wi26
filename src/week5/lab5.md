@@ -10,7 +10,7 @@ Press `R` to recover if you didn't save and it is in the `.swp` file
 Part 2: Writing a Search Program
 --------------------------------
 
-(clone the github classroom repo from here: <>)
+(clone the github classroom repo from here: <https://classroom.github.com/a/tRWujWB3>)
 
 For this lab, you'll be testing your program on the "rockyou" password list from your PA2, you can copy it over from this path on ieng6:
 
