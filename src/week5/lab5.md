@@ -42,7 +42,7 @@ You can use the `strcmp()` function to check whether two strings are equal.
 Work Check-off
 --------------
 
-Make sure you have committed and pushed the code you were working on for your `-n`, `-v`, or `-c` file from the lab activity.
+Commit and push your code. You should have at least one of `-n`, `-c`, or `-v` implemented.
 
 If done early, implement some of the following (in no particular order)
 ------------------------------------------------------------------------------
