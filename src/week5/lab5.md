@@ -39,6 +39,8 @@ Each person in your group should implement a different one of these; you'll need
 
 You can use the `strcmp()` function to check whether two strings are equal.
 
+Make sure you keep the original functionality of the program without flags!!
+
 Work Check-off
 --------------
 
