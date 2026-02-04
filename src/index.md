@@ -66,8 +66,8 @@ better!
       - [Blank Handout](lec/01-29-strktok-interior-pointer/lecture.pdf)
       - Annotated Handout [11am](lec/01-29-strktok-interior-pointer/lecture_notes_jan29_1100.pdf)[12:30pm](lec/01-29-strktok-interior-pointer/lecture_notes_jan29_1230.pdf)
       - Code
-        - strtok.c [11am](lec/01-29-strktok-interior-pointer/strtokA.c)[12:30pm](lec/01-29-strktok-interior-pointer/strtok.c)
-        - shell.c [11am](lec/01-29-strktok-interior-pointer/shellA.c)[12:30pm](lec/01-29-strktok-interior-pointer/shell.c)
+        - strtok.c [11am](lec/01-29-strktok-interior-pointer/strtokA.c) [12:30pm](lec/01-29-strktok-interior-pointer/strtok.c)
+        - shell.c [11am](lec/01-29-strktok-interior-pointer/shellA.c) [12:30pm](lec/01-29-strktok-interior-pointer/shell.c)
       - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1jIK6wvp3Oft6-YXVM7BesZA2o_Jtr4lqy59Upjsz-gA/edit?usp=sharing)
       - [Lecture Summary Slides PDF](lec/01-29-strktok-interior-pointer/summary.pdf)
       - [Lecture Summary with Speaker Notes PDF](lec/01-29-strktok-interior-pointer/summary-speaker.pdf)
