@@ -50,6 +50,7 @@ better!
     - Tuesday
       - [Blank Handout](lec/02-03-fork-exec-shell/lecture.pdf)
       - [layout.c (code from handout)](lec/02-03-fork-exec-shell/layout.c)
+      - Notes on exam from Joe ---> [exam.txt](lec/02-03-fork-exec-shell/exam.txt)
       - Annotated Handout [12:30pm](lec/02-03-fork-exec-shell/lecture_notes_feb03_1230.pdf)
       - Chalkboard (11am) [Memory](lec/02-03-fork-exec-shell/chalkboard1.png), 
       [Memory Extended](lec/02-03-fork-exec-shell/chalkboard2.png),
@@ -57,6 +58,7 @@ better!
        [execvp(..)](lec/02-03-fork-exec-shell/chalkboard4.png), 
        [Full Board](lec/02-03-fork-exec-shell/chalkboard5.png)
       - Code [shell.c](lec/02-03-fork-exec-shell/shell.c)
+             [shell-complete.c](lec/02-03-fork-exec-shell//shell-complete.c)
 
 - **Week 4 – Processes and Memory**
   - **Readings**
