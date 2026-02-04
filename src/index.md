@@ -51,7 +51,11 @@ better!
       - [Blank Handout](lec/02-03-fork-exec-shell/lecture.pdf)
       - [layout.c (code from handout)](lec/02-03-fork-exec-shell/layout.c)
       - Annotated Handout [12:30pm](lec/02-03-fork-exec-shell/lecture_notes_feb03_1230.pdf)
-      - Chalkboard (11am) [Memory](lec/02-03-fork-exec-shell/chalkboard1.png) [Memory Extended](lec/02-03-fork-exec-shell/chalkboard2.png) [fork()](lec/02-03-fork-exec-shell/chalkboard3.png) [execvp(..)](lec/02-03-fork-exec-shell/chalkboard4.png) [Full Board](lec/02-03-fork-exec-shell/chalkboard5.png)
+      - Chalkboard (11am) [Memory](lec/02-03-fork-exec-shell/chalkboard1.png), 
+      [Memory Extended](lec/02-03-fork-exec-shell/chalkboard2.png),
+       [fork()](lec/02-03-fork-exec-shell/chalkboard3.png), 
+       [execvp(..)](lec/02-03-fork-exec-shell/chalkboard4.png), 
+       [Full Board](lec/02-03-fork-exec-shell/chalkboard5.png)
       - Code [shell.c](lec/02-03-fork-exec-shell/shell.c)
 
 - **Week 4 – Processes and Memory**
