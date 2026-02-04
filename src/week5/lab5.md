@@ -44,6 +44,34 @@ Work Check-off
 
 Commit and push your code. You should have at least one of `-n`, `-c`, or `-v` implemented.
 
+Sample Test Cases
+--------------
+
+```
+$ ./mysearch -n alpaca < /home/linux/ieng6/CSE29_WI26_A00/public/pa2/rockyou_clean.txt
+49372: alpaca
+261400: alpacas
+646255: englandalpaca
+2388349: hugoalpaca
+2413735: hildaalpaca
+3132574: babyalpaca
+3253313: alpacast
+$ ./mysearch -v a < /home/linux/ieng6/CSE29_WI26_A00/public/pa2/rockyou_clean.txt | head -n 10
+iloveyou
+princess
+nicole
+monkey
+lovely
+qwerty
+iloveu
+tigger
+sunshine
+soccer
+$ ./mysearch -c alpaca < /home/linux/ieng6/CSE29_WI26_A00/public/pa2/rockyou_clean.txt
+7
+```
+
+
 If done early, implement some of the following (in no particular order)
 ------------------------------------------------------------------------------
 
