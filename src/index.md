@@ -167,7 +167,7 @@ there will be:
 - **2** points for the corresponding problem set (2 points for fully correct and
   complete by the deadline, 1 point for incomplete at the deadline).
 - **2** points for program correctness (2 points for perfect or nearly-perfect, 1 point
-  for significant errors, 0 for programs that don't work on at least some examples)
+  for significant errors, 0 for programs that work on very few or no examples)
 - **2** points for design questions (2 points for perfect or nearly-perfect, 1
   point for significant errors)
 
