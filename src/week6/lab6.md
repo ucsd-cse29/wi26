@@ -321,6 +321,6 @@ Here, we make extensive use of variables for the ultimate target (`adders`) and 
 
 Let's go back to the `headers` directory from the [Header Guards section](#header-guards) and open the `Makefile` there, which is partially completed. Complete the `Makefile` according to the requirements listed inside it. Feel free to copy code segments from above. Once you're done, try `make` to see your Makefile in action\!
 
-# Lab 6 Work Check-off (Due Monday, November 10)
+# Lab 6 Work Check-off (Due before next Tuesday lecture)
 
 Commit and push your fix for `student.c` from the [Part 1 Valgrind](#part-1-valgrind) section to your [Github Classroom repo](https://classroom.github.com/a/oTFGxPnL)! 
