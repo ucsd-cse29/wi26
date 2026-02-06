@@ -70,6 +70,9 @@ better!
           [exec-arg0.c](lec/02-05-fork-exec-more/exec-arg0.c)
           [arg0.c](lec/02-05-fork-exec-more/arg0.c)
           [exec-arg0-nonsense.c](lec/02-05-fork-exec-more/exec-arg0-nonsense.c)
+      - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/16zye6BwTkUKqpIHdlT3P4V_ltnsDST88e7NFxjuDvqk/edit?usp=sharing)
+      - [Lecture Summary Slides PDF](lec/02-05-fork-exec-more/summary.pdf)
+      - [Lecture Summary with Speaker Notes PDF](lec/02-05-fork-exec-more/summary-speaker.pdf)
 
 - **Week 4 – Processes and Memory**
   - **Readings**
