@@ -63,6 +63,13 @@ better!
       - Code [shell.c](lec/02-03-fork-exec-shell/shell.c)
              [shell-complete.c](lec/02-03-fork-exec-shell//shell-complete.c)
     - Thursday
+      - Review Question materials
+        - [reviewq1.txt](lec/02-05-fork-exec-more/reviewq1.txt)
+          [reviewq2.txt](lec/02-05-fork-exec-more/reviewq.txt)  
+          [fork2.c](lec/02-05-fork-exec-more/fork2.c)  
+          [exec-arg0.c](lec/02-05-fork-exec-more/exec-arg0.c)
+          [arg0.c](lec/02-05-fork-exec-more/arg0.c)
+          [exec-arg0-nonsense.c](lec/02-05-fork-exec-more/exec-arg0-nonsense.c)
 
 - **Week 4 – Processes and Memory**
   - **Readings**
