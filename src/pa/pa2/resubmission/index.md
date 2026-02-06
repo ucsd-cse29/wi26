@@ -1,6 +1,6 @@
 # PA2 - Hashing and Passwords: Resubmission Due 2/12 at 11:59pm
 
-### If you want to resubmit PA2, please read this section carefully. You need to pass all the tests in the original PA2, while also implementing an extra functionality and answering a new design question described below.
+### If you want to resubmit PA2, please read this section carefully. You need to pass all the tests in the original PA2, while also implementing an extra functionality.
 
 Implement `pwcrack` as originally described below. Also update `pwcrack` to check if the SHA256 hash of the potential password with each of its numeric digits `'0'-'9'` replaced by all possible numberic digits `'0'-'9'` (considering only single digit changes) matches the given hash.
 
@@ -28,7 +28,9 @@ secret222
 Did not find a matching password
 ```
 
-### You will also need to answer the following updated DESIGN question in your resubmission:
+### Design Question Resubmission
+
+If you want to resubmit the design questions, we will be asking this updated design question in a new Gradescope assignment:
 
 Consider the following run of your updated `pwcrack`:
 
