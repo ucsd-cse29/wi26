@@ -72,7 +72,7 @@ better!
           [exec-arg0-nonsense.c](lec/02-05-fork-exec-more/exec-arg0-nonsense.c)
       - Code
 		- 11am [shell.c](lec/02-05-fork-exec-more/shell-a.c)
-        - 12:30pm [shell.c](lec/02-05-fork-exec-more/shell.c)  
+        - 12:30pm [shell.c](lec/02-05-fork-exec-more/shell.c)
           [vm.c](lec/02-05-fork-exec-more/vm.c)  
       - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/16zye6BwTkUKqpIHdlT3P4V_ltnsDST88e7NFxjuDvqk/edit?usp=sharing)
       - [Lecture Summary Slides PDF](lec/02-05-fork-exec-more/summary.pdf)
