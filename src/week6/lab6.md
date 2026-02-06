@@ -1,6 +1,6 @@
 # Lab 6 Reference Document
 
-(clone the GitHub Classroom repo from here: <https://classroom.github.com/a/oTFGxPnL>)
+(clone the GitHub Classroom repo from here: <https://classroom.github.com/a/EM-1PiRu>)
 
 # Part 1: Valgrind
 
@@ -63,7 +63,7 @@ Let's illustrate the utility of header guards with a concrete example.
 
 After cloning the Github classroom repository onto `ieng6`, `cd` into `2lab6-headers-and-makefiles`. Then `cd` into `headers` and inspect the contents of the five files inside. These files together represent 3 "modules" with the following dependency graph:
 
-![header_diagram](../images/lab6_header_dep.svg)
+![header_diagram](lab6_header_dep.svg)
 
 When the compiler reads `test.c`, its preprocessor will process `span.h` twice: once through the direct arrow pointing to `span.h` and once through `queries.h`, which also points to `span.h`. As a result, the contents of `span.h` will be "pasted" into the source file twice. Since `span.h` contains a struct *definition* for `struct string_span`, this definition will be repeated twice. Try the following compilation command to see what this causes:
 
@@ -278,7 +278,7 @@ When we use `gcc` to manually compile programs, we typically compile directly fr
 
 The linking process resolves symbol references between object files, meaning that functions defined in one file can be used in another. In `part2-3`, a long program with 50000 adder functions (each of which adds the integer in its name to the parameter and returns it) is given in `adders.c`. The corresponding header file, `adders.h`, contains function declarations to be shared between source files. Then, in `main.c`, we print the return value of `run_adders`, which calls all of the adder functions and sums their results.  
 
-![](../images/one-million-functions.png)
+![](one-million-functions.png)
 
 We can use the following `gcc` commands to create then link the object files (we will run the `time` command so it will tell us how long each of these commands took to run):
 
@@ -323,4 +323,4 @@ Let's go back to the `headers` directory from the [Header Guards section](#heade
 
 # Lab 6 Work Check-off (Due before next Tuesday lecture)
 
-Commit and push your fix for `student.c` from the [Part 1 Valgrind](#part-1-valgrind) section to your [Github Classroom repo](https://classroom.github.com/a/oTFGxPnL)! 
+Commit and push your fix for `student.c` from the [Part 1 Valgrind](#part-1-valgrind) section to your [Github Classroom repo](https://classroom.github.com/a/EM-1PiRu)! 
