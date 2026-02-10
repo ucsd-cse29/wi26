@@ -32,7 +32,7 @@ Did not find a matching password
 
 If you want to resubmit the design questions, we will be asking this updated design question in a new Gradescope assignment. Please submit a PDF or a Markdown file containing your answer to the following question:
 
-Consider the following run of your updated `pwcrack`:
+Consider the following run of an updated `pwcrack` that follows the new requirements:
 
 ```
 $ ./pwcrack b54051d1abdba8656126f85f96d9270283d34b1cb8787b78c50646d9eb4a502d
@@ -42,6 +42,8 @@ secret111
 Did not find a matching password
 ```
 
+Assume that it processes each potential password without any optimizations and does not store information from previous passwords it has checked. Answer the following questions:
+
 - How many password variations were hashed and tested for a match?
 - How many duplicate password variations were hashed and checked?
-- What are ways you might change your implementation to avoid this repeated and redundant work?
+- What are ways you might change the implementation to avoid this repeated and redundant work?
