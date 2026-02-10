@@ -41,6 +41,13 @@ better!
 
 # Schedule
 
+- **Week 6 – Actually Structs, Heap Memory**
+  - **Readings**
+    - Same as week 5
+  - **Lectures**
+    - Tuesday
+      - [Blank Handout](lec/02-10-structs/lecture.pdf)
+
 - **Week 5 – Structs, Memory Management**
   - **Readings**
     - [Structs](https://diveintosystems.org/book/C2-C_depth/structs.html)
