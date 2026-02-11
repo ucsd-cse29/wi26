@@ -47,6 +47,7 @@ better!
   - **Lectures**
     - Tuesday
       - [Blank Handout](lec/02-10-structs/lecture.pdf)
+      - [Annotated iPad notes](lec/02-10-structs/lecture_notes_feb10_both.pdf) (both sections 11am then 12:30pm)
 
 - **Week 5 – Structs, Memory Management**
   - **Readings**
