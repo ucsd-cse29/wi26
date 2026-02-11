@@ -9,6 +9,7 @@
 - [Lab 3](./week3/lab3.md)
 - [Lab 4](./week4/lab4.md)
 - [Lab 5](./week5/lab5.md)
+- [Lab 6](./week6/lab6.md)
 
 # Assignments
 
