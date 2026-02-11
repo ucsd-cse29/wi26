@@ -48,6 +48,9 @@ better!
     - Tuesday
       - [Blank Handout](lec/02-10-structs/lecture.pdf)
       - [Annotated iPad notes](lec/02-10-structs/lecture_notes_feb10_both.pdf) (both sections 11am then 12:30pm)
+      - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1vX5cVov154WRVN_ZZ4ZY66niOqQPyqdqsmBCLHBQh1s/edit?usp=sharing)
+      - [Lecture Summary Slides PDF](lec/02-10-structs/summary.pdf)
+      - [Lecture Summary with Speaker Notes PDF](lec/02-10-structs/summary-speaker.pdf)
 
 - **Week 5 – Structs, Memory Management**
   - **Readings**
