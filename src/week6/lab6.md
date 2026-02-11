@@ -2,46 +2,7 @@
 
 (clone the GitHub Classroom repo from here: <https://classroom.github.com/a/EM-1PiRu>)
 
-# Part 1: Valgrind
-
-## How to Run `valgrind`
-Compile your code, filling in PROGRAM with your actual program name, and ARGS if your program takes any command-line arguments:
-```
-$ gcc -Wall -g PROGRAM.c -o PROGRAM
-```
-Then, run the Valgrind command:
-```
-$ valgrind --leak-check=full ./PROGRAM ARGS
-```
-We can add the `--leak-check=full` flag to instruct Valgrind to report the locations where leaked memory had been allocated. 
-
-For `search.c`, we could search for `alp`:
-```
-$ gcc -Wall -g search.c -o search
-$ valgrind --leak-check=full ./search alp < alpaca.txt
-```
-
-For `student.c`:
-```
-$ gcc -Wall -g student.c  -o student 
-$ valgrind --leak-check=full ./student < students.txt
-```
-
-## `time` command
-You can add `time` to the beginning of a command to report the actual time it takes for that command to run! i.e.
-```
-time valgrind ./PROGRAM
-```
-
-## Valgrind Memory Errors
-Notice how the heap summary gives you information on where each memory error occurs:
-- **Definitely lost:** Besides myself, memory leaks are also considered "definitely lost" when the pointer to the memory becomes inaccessible. This can happen when the pointer is deleted when a function ends and its stack frame is deleted, or when the pointer is set to another value.
-- **Indirectly lost:** Blocks of memory are considered "indirectly lost" when there exists a pointer in another leaked memory to the block. In this case, the memory pointed to by `pp` (i.e. `*pp`) is definitely lost, and the memory pointed to by `*pp` (i.e. `**pp`) is indirectly lost.
-- **Possibly lost:** "Possibly lost" memory leaks occur when we have a pointer to some part of the leaked memory, but not to the base of the memory block, likely because the pointer was modified. In this case, we allocate an array of integers, then move the pointer to point to the middle of the array.
-- **Still reachable:** Memory leaks are "still reachable" when the pointer is not lost when program exits, but the memory is still unfreed. This can occur when a global variable contains a pointer to leaked memory.
-- **Suppressed:** Users can specify the flag `--suppressions=<filename>` to Valgrind to intentionally ignore leaks that are known to be harmless or unavoidable. If you want to learn how to use this flag, you can check out this [StackOverflow post](https://stackoverflow.com/questions/13692890/suppress-potential-memory-leak-in-valgrind), although in our (at least one tutor and at least one TA) experience this flag is seldom used, if at all.
-
-# Part 2: Header Guards and Makefiles
+# Part 1: Header Guards and Makefiles
 
 ## Header Guards
 
@@ -323,4 +284,4 @@ Let's go back to the `headers` directory from the [Header Guards section](#heade
 
 # Lab 6 Work Check-off (Due before next Tuesday lecture)
 
-Commit and push your fix for `student.c` from the [Part 1 Valgrind](#part-1-valgrind) section to your [Github Classroom repo](https://classroom.github.com/a/EM-1PiRu)! 
+Commit and push your code for any of the Makefile parts or `span.h` to your [Github Classroom repo](https://classroom.github.com/a/EM-1PiRu)! In the commit message, name the part that you edited.
