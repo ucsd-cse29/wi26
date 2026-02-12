@@ -110,10 +110,13 @@ small-sized and not adjacent (so they cannot be coalesced).
    allocations would fail due to fragmentation if the _first fit_ allocation policy
    was used instead, keeping everything else the same.
 
+3. Describe how you would implement a function `uint8_t safe_readwrite(void* p)`
+   that takes a pointer and returns whether it is within the payload of a
+   live region on the heap.
+
 ## Submission
 
-You'll submit on Gradescope as usual. Refer to the [policies on
-collaboration](https://ucsd-cse29.github.io/wi26/#policies-and-perspective) if you need to
+You'll submit your code Gradescope as usual and submit a **PDF** with your Design Question Answers on Gradescope. Refer to the [policies on collaboration](https://ucsd-cse29.github.io/wi26/#policies-and-perspective) if you need to
 refresh your memory.
 
 **Important:** We will compile your program using the provided `Makefile`s, which you should
