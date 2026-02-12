@@ -193,11 +193,11 @@ there will be:
 **Grading**: There are 6 points available for each assignment.
 
 - **2** points for the corresponding problem set (2 points for fully correct and
-  complete by the deadline, 1 point for incomplete at the deadline).
+  complete by the deadline, 1 point for somewhat complete at the deadline, 0 points for incomplete or very little completed at the deadline).
 - **2** points for program correctness (2 points for perfect or nearly-perfect, 1 point
   for significant errors, 0 for programs that work on very few or no examples)
 - **2** points for design questions (2 points for perfect or nearly-perfect, 1
-  point for significant errors)
+  point for minor errors, 0 points for major errors)
 
 After each assignment is graded, you'll have a chance to _resubmit_ all
 components based on the feedback you received, which will detail what you need
