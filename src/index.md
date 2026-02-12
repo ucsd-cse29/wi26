@@ -47,7 +47,7 @@ better!
     - [Python UTF8 Struct: cpython/unicodeobject.h](https://github.com/python/cpython/blob/main/Include/cpython/unicodeobject.h#L166)
   - **Lectures**
     - Thursday
-      - [Blank Handout](lec/02-12-structs-malloc/lecture.pdf)
+      - [Blank Handout](lec/02-12-struct-malloc/lecture.pdf)
     - Tuesday
       - [Blank Handout](lec/02-10-structs/lecture.pdf)
       - [Annotated iPad notes](lec/02-10-structs/lecture_notes_feb10_both.pdf) (both sections 11am then 12:30pm)
