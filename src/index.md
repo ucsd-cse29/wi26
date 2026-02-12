@@ -197,7 +197,7 @@ there will be:
 - **2** points for program correctness (2 points for perfect or nearly-perfect, 1 point
   for significant errors, 0 for programs that work on very few or no examples)
 - **2** points for design questions (2 points for perfect or nearly-perfect, 1
-  point for minor errors, 0 points for major errors)
+  point for minor errors, 0 points for major errors or incomplete)
 
 After each assignment is graded, you'll have a chance to _resubmit_ all
 components based on the feedback you received, which will detail what you need
