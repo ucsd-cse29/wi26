@@ -55,7 +55,7 @@ Copy the file `[FILE]` to the location specified by `[PATH]`. `[FILE]` and `[PAT
 ```
 scp Screenshot.png USERNAME@ieng6.ucsd.edu:~/
 ```
-And then you can move the screenshot to your lab8-starter repo using `mv`. 
+And then you can move the screenshot to your lab7-git repo using `mv`. 
 
 Here's the diagram of what that looks like to `scp` from your laptop/desktop to the repo on `ieng6`, and then push to `GitHub`:
 ![scp.png](./scp.png)
