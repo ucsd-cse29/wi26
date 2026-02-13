@@ -105,14 +105,17 @@ small-sized and not adjacent (so they cannot be coalesced).
    layout of the allocator from the PA are used (best fit, alignment, coalescing
    rules, and so on)
 
-2. Give an example of a program (in C or pseudocode) where all the allocations
-   succeed if using the _best fit_ allocation policy (like in this PA), but some
-   allocations would fail due to fragmentation if the _first fit_ allocation policy
-   was used instead, keeping everything else the same.
+2. Write a short C program that uses the built-in `malloc` and `free`
+   that triggers an error when run with `valgrind` for attempting to read or
+   write in a block of memory that has been malloc'd and then freed. Submit the
+   program and the output.
 
-3. Describe how you would implement a function `uint8_t safe_readwrite(void* p)`
-   that takes a pointer and returns whether it is within the payload of a
+   Then, in the context of this assignment and your `vmalloc` and `vmfree`,
+   describe how you would implement a function `uint8_t safe_readwrite(void*
+   p)` that takes a pointer and returns whether it is within the payload of a
    live region on the heap.
+
+
 
 ## Submission
 
