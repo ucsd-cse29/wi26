@@ -1,4 +1,4 @@
-# Lab 8 Reference Document
+# Lab 7 Reference Document
 
 
 Part 1: git good
@@ -8,7 +8,7 @@ Part 1: git good
 Get into groups of 2, and decide who will be **Partner 1** and **Partner 2**.
 
 #### Partner 1 ONLY:
-1. Create a new team on the Github Classroom assignment for you and your partner (DO NOT accept until we do this together in class): <https://classroom.github.com/a/IcKc8biR> 
+1. Create a new team on the Github Classroom assignment for you and your partner (DO NOT accept until we do this together in class): <https://classroom.github.com/a/YEvPGN9B> 
 
 #### Partner 2 ONLY:
 2. Join the team that Partner 1 created.
