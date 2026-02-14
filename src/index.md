@@ -55,6 +55,8 @@ better!
     - Thursday
       - [Blank Handout](lec/02-12-struct-malloc/lecture.pdf)
       - [Annotated iPad notes](lec/02-12-struct-malloc/lecture_notes_feb12.pdf) (both sections 11am then 12:30pm)
+      - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1KUFvYVgKYhBwB0HUr18S-yZQBkx3BALEiemVl3rW-eA/edit?usp=sharing)
+      - [Lecture Summary Slides PDF](lec/02-12-struct-malloc/summary.pdf)
 
 - **Week 5 – Structs, Memory Management**
   - **Readings**
