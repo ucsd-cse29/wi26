@@ -40,6 +40,11 @@ better!
 <iframe src="https://calendar.google.com/calendar/embed?src=c_ae9767c348e966bfab21111de9970ad83a36f155ee0583d85874fde005ad9232%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Schedule
+- **Week 7 – Implementing an Allocator**
+  - **Readings & Resources**
+    - [The `void*` Type](https://diveintosystems.org/book/C2-C_depth/advanced_voidstar.html)
+    - [Pointer Arithmetic](https://diveintosystems.org/book/C2-C_depth/advanced_pointer_arithmetic.html)
+    - [Virtual Memory](https://diveintosystems.org/book/C13-OS/vm.html)
 
 - **Week 6 – Actually Structs, Heap Memory**
   - **Readings and Resources**
