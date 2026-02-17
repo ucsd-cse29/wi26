@@ -24,7 +24,7 @@ better!
   - Week 10: During your regularly-scheduled lab time
   - Finals week: In CSE labs scheduling instructions coming soon!
 - Final exam: [AP&M Testing Center](https://map.concept3d.com/?id=1005#!m/167186?share), flexible scheduling in final exam week on [PrairieTest](https://us.prairietest.com/)
-- Professor office hours:
+- Professor office hours (these are the standard times but check the calendar below for changes!)
   - Tuesday 2:30-3:30pm, CSE 3206 (advising focused, open to all students)
   - Wednesday 1:30-2:30pm CSE B270/tables outside labs (CSE29 students only)
 - Office Hours: Refer to calendar
