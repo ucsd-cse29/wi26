@@ -45,6 +45,13 @@ better!
     - [The `void*` Type](https://diveintosystems.org/book/C2-C_depth/advanced_voidstar.html)
     - [Pointer Arithmetic](https://diveintosystems.org/book/C2-C_depth/advanced_pointer_arithmetic.html)
     - [Virtual Memory](https://diveintosystems.org/book/C13-OS/vm.html)
+  - **Lectures**
+    - Tuesday
+      - Review Questions [PDF](lec/02-17-malloc-implementation/review_questions.pdf), [Slides](https://docs.google.com/presentation/d/1KqH_CPVZItowwm-irWztXNMneCga-3zpU1j4FAbCZf8/edit?usp=sharing)
+      - Lecture Videos
+        - [video 1](https://drive.google.com/file/d/1KSIkf-MOPv9Alhk9eXuDPPYRXKEfLB2n/view?usp=sharing&t=569)
+        - [video 2](https://drive.google.com/file/d/1ip_uLakqDSI6DSSJksEkF7YSMeUykH15/view?usp=sharing&t=120)
+      - [Notes from video 1](lec/02-17-malloc-implementation/annotated-lecture-fa24-w7w.pdf)
 
 - **Week 6 – Actually Structs, Heap Memory**
   - **Readings and Resources**
