@@ -46,6 +46,8 @@ better!
     - [Pointer Arithmetic](https://diveintosystems.org/book/C2-C_depth/advanced_pointer_arithmetic.html)
     - [Virtual Memory](https://diveintosystems.org/book/C13-OS/vm.html)
   - **Lectures**
+    - Thursday
+      - [Blank Handout](lec/02-19-malloc-impl/lecture.pdf)
     - Tuesday
       - Review Questions [PDF](lec/02-17-malloc-implementation/review_questions.pdf), [Slides](https://docs.google.com/presentation/d/1KqH_CPVZItowwm-irWztXNMneCga-3zpU1j4FAbCZf8/edit?usp=sharing)
       - Lecture Videos
