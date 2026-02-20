@@ -54,7 +54,9 @@ better!
       - [Notes from video 1](lec/02-17-malloc-implementation/annotated-lecture-fa24-w7w.pdf)
     - Thursday
       - [Blank Handout](lec/02-19-malloc-impl/lecture.pdf)
-      - [Annotated Handout](lec/02-19-malloc-impl/lecture_notes_feb19.pdf)
+      - [Annotated Handout](lec/02-19-malloc-impl/annotated.pdf) (both sections)
+      - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1ZE3LYZzPTIMl-A-OWuRS23gqPzv0X-DeRAgWI-M2FX0/edit?usp=sharing)
+      - [Lecture Summary Slides PDF](lec/02-19-malloc-impl/summary.pdf)
 
 - **Week 6 – Actually Structs, Heap Memory**
   - **Readings and Resources**
