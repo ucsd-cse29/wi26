@@ -1,5 +1,7 @@
 # PA3 - The Pioneer Shell: Due Thursday, February 12th at 11:59pm - [Github Classroom Link](https://classroom.github.com/a/cpys2JKd)
 
+Looking for resubmission? [Click here](https://ucsd-cse29.github.io/wi26/pa/pa3/resubmission/index.html)
+
 This assignment is from [CSE29
 SP24](https://cse29sp24.github.io/docs/pas/pa6.html#acknowledgements), which has
 its own list of acknowledgments!

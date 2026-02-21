@@ -1,49 +1,49 @@
-# PA3 - The Pioneer Shell: Resubmission Due 11/20 at 11:59pm
+# PA3 - The Pioneer Shell: Resubmission Due 2/26 at 11:59pm
 
-### If you want to resubmit PA3, please read this section carefully. You need to pass all the tests in the original PA3, while also implementing an extra functionality.
+### If you want to resubmit PA3, please read this section carefully. You need to pass all the tests in the original PA3, while also implementing an extra functionality
 
-Implement `pish` as originally described. Also update `pish` to support a new built-in command `!!` that re-executes the last non-`!!` command entered by the user.
-
-The `!!` command should also be recorded in the command history, but should not affect what the "last" command is.
-
-For example, if the user enters the following commands in sequence:
+Implement `pish` as originally described. Also update `pish` to support a new built-in command `$?` that prints the exit status of the last command executed. This should work for both built-in and non-built-in commands. For example:
 
 ```bash
-▶ history
-1 history
-▶ !!
-1 history
-2 !!
-▶ pwd
-/home/jpolitz/cse29fa25/pa3/Simple-Shell
 ▶ ls
-Makefile  script.sh  pish  pish.c  pish.h  pish_history.c
-pish_history.o  pish.o
-▶ !!
-Makefile  script.sh  pish  pish.c  pish.h  pish_history.c
-pish_history.o  pish.o
-▶ !!
-Makefile  script.sh  pish  pish.c  pish.h  pish_history.c
-pish_history.o  pish.o
-▶ history
-1 history
-2 !!
-3 pwd
-4 ls
-5 !!
-6 !!
-7 history
+Makefile  script.sh  pish  pish.c  pish.h  pish_history.c  pish_history.o  pish.o
+▶ $?
+0
+▶ echo hello
+hello
+▶ $?
+0
+▶ echo hello && false
+hello
+▶ $?
+1
 ```
+
+The `$?` command should also be recorded in the command history.
 
 ## Errors
 
 For each of the following errors, call the `usage_error()` function in the starter code and continue to the next iteration of the loop.
 
-- If the user enters `!!` as the very first command (there is no last command to execute).
-- If the user enters `!! <anything>` (if argc != 1).
+- If the user enters `$?` as the very first command (there is no previous exit code).
+- If the user enters `$? <anything>` (if argc != 1).
 
-## Coding Style Resubmission
+## Design Question Resubmission
 
-If you got a point off for coding style in the original PA3, you **do not** have to do the new functionality for that point.
+If you want to resubmit the design questions, we will be asking this updated design question in a new Gradescope assignment. Please submit a PDF containing your answer to the following question:
 
-Refer to the Piazza post for more details.
+Look up how to run background processes at the shell with & (feel free to use an AI tool to help you see some examples!). Describe a little bit about what might change in your shell if you wanted to allow background processes to run while the shell continues to take input.
+
+## What to Hand In
+
+- Submit your updated code to Gradescope
+- CREDITS.txt is required (more details on the [syllabus](https://ucsd-cse29.github.io/wi26/#assignments-and-academic-integrity))
+- We will run your program with `make` and `./pish` in both interactive and batch mode
+
+If you are resubmitting the design question, submit a PDF containing your answer to the design question in the new Gradescope assignment.
+
+## Resources and Policy
+
+Refer to [the policies on assignments](https://ucsd-cse29.github.io/wi26/#assignments-and-academic-integrity) for working with others or appropriate use of tools like ChatGPT or Github Copilot.
+
+You can use any code from class, lab, or discussion in your work. You must write your own answers to the design questions.
