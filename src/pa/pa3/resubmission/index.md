@@ -13,8 +13,16 @@ Makefile  script.sh  pish  pish.c  pish.h  pish_history.c  pish_history.o  pish.
 hello
 ▶ $?
 0
+▶ ls nonexistent
+ls: nonexistent: No such file or directory
+▶ $?
+1
 ▶ echo hello && false
 hello
+▶ $?
+1
+▶ cd nonexistent
+cd: no such file or directory: nonexistent
 ▶ $?
 1
 ```
@@ -27,6 +35,10 @@ For each of the following errors, call the `usage_error()` function in the start
 
 - If the user enters `$?` as the very first command (there is no previous exit code).
 - If the user enters `$? <anything>` (if argc != 1).
+
+### Hints
+
+Look into the `waitpid` system call and how it can be used to get the exit status of a child process. You may find the `WIFEXITED` and `WEXITSTATUS` macros useful.
 
 ## Design Question Resubmission
 
