@@ -38,7 +38,7 @@ For each of the following errors, call the `usage_error()` function in the start
 
 ### Hints
 
-Look into the `waitpid` system call and how it can be used to get the exit status of a child process. You may find the `WIFEXITED` and `WEXITSTATUS` macros useful.
+You may find the `WIFEXITED` and `WEXITSTATUS` macros useful.
 
 ## Design Question Resubmission
 
