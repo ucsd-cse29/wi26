@@ -38,7 +38,7 @@ For each of the following errors, call the `usage_error()` function in the start
 
 ### Hints
 
-You may find the `WIFEXITED` and `WEXITSTATUS` macros useful.
+You may find the `WEXITSTATUS` macro useful.
 
 ## Design Question Resubmission
 
