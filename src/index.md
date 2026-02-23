@@ -260,7 +260,7 @@ already had a due date (e.g. PAs, problem sets, design questions, and labs that
 have their work due before the exam period starts), and typically _don't_ focus
 on specific details only found in textbook chapters or mentioned
 conversationally in lecture. However, that's only a statement about the overall
-design, not a hard constraint: we will promise that course content from any
+design, not a hard constraint: we will never promise that course content from any
 particular week, lecture, assignment, textbook chapter, or other course
 component _won't_ appear on an exam. We say this publicly in the syllabus to
 avoid misunderstandings (“the professor/TA/my friend told me not to study
