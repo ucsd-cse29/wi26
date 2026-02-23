@@ -17,8 +17,6 @@ hello
 ls: nonexistent: No such file or directory
 ▶ $?
 1
-▶ echo hello && false
-hello
 ▶ $?
 1
 ▶ cd nonexistent
