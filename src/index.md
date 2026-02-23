@@ -255,6 +255,18 @@ interacting with a terminal.
 We'll know the precise scheduling by the end of week 1 for both the exams during
 the quarter and the final exam.
 
+Exams are (necessarily) cumulative. They typically focus on content that has
+already had a due date (e.g. PAs, problem sets, design questions, and labs that
+have their work due before the exam period starts), and typically _don't_ focus
+on specific details only found in textbook chapters or mentioned
+conversationally in lecture. However, that's only a statement about the overall
+design, not a hard constraint: we will promise that course content from any
+particular week, lecture, assignment, textbook chapter, or other course
+component _won't_ appear on an exam. We say this publicly in the syllabus to
+avoid misunderstandings (“the professor/TA/my friend told me not to study
+that”) and to make it clear that all the content matters (we wouldn't assign
+it if it didn't).
+
 ## Social Learning
 
 Learning (in college) is in part, a social process. Your engagement with it
