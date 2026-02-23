@@ -40,6 +40,16 @@ better!
 <iframe src="https://calendar.google.com/calendar/embed?src=c_ae9767c348e966bfab21111de9970ad83a36f155ee0583d85874fde005ad9232%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Schedule
+- **Week 8 – Allocator Wrapup, More on System Calls, Practice**
+  - **Readings & Resources** 
+    - [Starting a Process](https://diveintosystems.org/book/C13-OS/impl.html)
+    - [Debugging Memory with Valgrind](https://diveintosystems.org/book/C3-C_debug/valgrind.html)
+    - [C Libraries](https://diveintosystems.org/book/C2-C_depth/advanced_libraries.html)
+    - [C Libraries Continued](https://diveintosystems.org/book/C2-C_depth/advanced_writing_libraries.html#_c_libraries_)
+  - **Lectures**
+    - Tuesday
+      - [Blank Handout](lec/02-24-vm/lecture.pdf)
+
 - **Week 7 – Implementing an Allocator**
   - **Readings & Resources**
     - [The `void*` Type](https://diveintosystems.org/book/C2-C_depth/advanced_voidstar.html)
