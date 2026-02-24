@@ -58,6 +58,7 @@ better!
   - **Lectures**
     - Tuesday
       - Review Questions [PDF](lec/02-17-malloc-implementation/review_questions.pdf), [Slides](https://docs.google.com/presentation/d/1KqH_CPVZItowwm-irWztXNMneCga-3zpU1j4FAbCZf8/edit?usp=sharing)
+      - Heap Visualizer [HTML Doc](lec/02-17-malloc-implementation/viz.html) (Note: there may be bugs in this implementation, the specification given in the PA is the ground truth)
       - Lecture Videos
         - [video 1](https://drive.google.com/file/d/1KSIkf-MOPv9Alhk9eXuDPPYRXKEfLB2n/view?usp=sharing&t=569) watch from time 9:30-end
         - [video 2](https://drive.google.com/file/d/1ip_uLakqDSI6DSSJksEkF7YSMeUykH15/view?usp=sharing&t=120) watch from beginning to ≈15 minutes in.
