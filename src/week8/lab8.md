@@ -285,7 +285,7 @@ Making a complex script may not fit in the time alloted for this lab, but *using
 
 ## Script examples:
 
-A real life script by [Katherine Izhikevich](https://kizhikevich.github.io/) and [Ben Du](https://www.bencdu.com/)   <https://github.com/kizhikevich/violating_ripe_probes/blob/main/atlas_pipeline/run_atlas_pipeline.sh> which run several python scripts to retrieve and sort through data.
+A [real life script](https://github.com/kizhikevich/violating_ripe_probes/blob/main/atlas_pipeline/run_atlas_pipeline.sh) by [Katherine Izhikevich](https://kizhikevich.github.io/) and [Ben Du](https://www.bencdu.com/)    which run several python scripts to retrieve and sort through data.
 
 The script Elena made to print out pokemon randomly when she opens ieng6 [pokemon.sh](./pokemon.sh)
 
@@ -295,7 +295,7 @@ Feb 10 -|Energy is priceless, but so is uninterrupted descriptions of structs.
 Sept25 2025 @10:16? -|I'm thankful to the computer engineering wizards that provided the magic sand to do this
 ```
 
-
-
 Work Check-off
 --------------
+
+TBD
