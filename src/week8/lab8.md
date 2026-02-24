@@ -295,6 +295,8 @@ Feb 10 -|Energy is priceless, but so is uninterrupted descriptions of structs.
 Sept25 2025 @10:16? -|I'm thankful to the computer engineering wizards that provided the magic sand to do this
 ```
 
+The script Brendan made to automatically zip and re-install python addons for the 3D software Blender. [blender_addon_updater.sh](./blender_addon_updater.sh)
+
 Work Check-off
 --------------
 
