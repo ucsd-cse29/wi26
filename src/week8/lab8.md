@@ -15,6 +15,11 @@ as it states, running `valgrind --leak-check=full ./my_program` will give more i
 
 > Note on the `-g`: This flag instructs GCC to add debugging symbols to the compiled executable. These symbols enable GDB to look up and show your source code during debugging. They also enable Valgrind to show you line numbers in its error backtraces.
 
+You are given a Makefile with the default set to compile both provided programs. you should only need to run `make` to compile.  
+To run `search`, recall you must provide an argument of the substring to search for, ie:  
+`./search alpaca < rockyou_clean.txt` will search through the `rockyou_clean.txt` file line by line, printing out lines containing "alpaca".
+
+To run `student`, we have provided `students.txt` which uses our program and will leak memory. `./student < students.txt` is how you use this in our program.
 
 # Part 2: Scripts in a nut*shell* and Pokemon Mailtime
 --------------------------------
