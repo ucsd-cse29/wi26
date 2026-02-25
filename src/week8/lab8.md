@@ -1,7 +1,8 @@
 # Lab 8 Reference Document
 
+##  [Starter Repository](https://classroom.github.com/a/FOspjmj8)
 
-Part 1: Valgrind
+# Part 1: Valgrind
 --------------------------------
 
 to run valgrind on an executable file called `my_program`, run:   
@@ -15,7 +16,7 @@ as it states, running `valgrind --leak-check=full ./my_program` will give more i
 > Note on the `-g`: This flag instructs GCC to add debugging symbols to the compiled executable. These symbols enable GDB to look up and show your source code during debugging. They also enable Valgrind to show you line numbers in its error backtraces.
 
 
-Part 2: Scripts in a nut*shell* and Pokemon Mailtime
+# Part 2: Scripts in a nut*shell* and Pokemon Mailtime
 --------------------------------
 
 ## Aside: The executable bit
