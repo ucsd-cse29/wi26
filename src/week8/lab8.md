@@ -79,7 +79,7 @@ As it turns out, all that is needed to complete task1 is to run a couple of comm
 
 ## Task 1: Books and Music
 
-With these tidbits, you are now ready to write your (possibly) first ever shell script\! **Your first task will be to write a shell script to organize the text and mp3 files in `minihome` into the `Books` and `Music` directories.** Please work on this with your groupmates.
+With these tidbits, you are now ready to write your (possibly) first ever shell script\! **Your first task will be to write a shell script in the `minihome` directory to print out the number of words in each `.txt` file, and bytes in each `.mp3` file, then organize them into the `Books` and `Music` directories respectively.** Please work on this with your groupmates.
 > Reminder: `ls -R` will show where all of your files currently are. 
 
 While testing your script, you may end up accidentally messing up your directory structure. If this happens, we have provided you with a `reset_task_1.sh` script in the **minihome** directory which you can run to reset the `.txt` and `.mp3` files. This will leave your .sh files intact, however, so don’t worry about losing your progress.
