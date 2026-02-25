@@ -49,6 +49,7 @@ better!
   - **Lectures**
     - Tuesday
       - [Blank Handout](lec/02-24-vm/lecture.pdf)
+      - [Annotated Handout](lec/02-24-vm/lecture_notes_feb24.pdf) (11am then 12:30pm)
 
 - **Week 7 – Implementing an Allocator**
   - **Readings & Resources**
