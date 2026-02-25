@@ -25,7 +25,7 @@ cd: no such file or directory: nonexistent
 1
 ```
 
-The `$?` command should also be recorded in the command history.
+The `$?` command should also be recorded in the command history. It should **not** affect what the last exit code was.
 
 ## Errors
 
