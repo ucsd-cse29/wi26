@@ -66,5 +66,5 @@ Here's the diagram of what that looks like to `scp` from your laptop/desktop to 
 Work Check-off
 --------------
 
-Run `git log`, which shows the commit history of the repo. Take a screenshot to show that both partners made commits, and push that screenshot to the repo.  (Hint: `scp`) Each partner should push their own screenshot to receive credit for the checkoff[.](../week8/lab8.md)
+Run `git log`, which shows the commit history of the repo. Take a screenshot to show that both partners made commits, and push that screenshot to the repo.  (Hint: `scp`) Each partner should push their own screenshot to receive credit for the checkoff.
 
