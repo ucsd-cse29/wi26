@@ -47,8 +47,7 @@ execute your script, you need to set the Execute bit by running
 using `ls -l`. 
 
  
-> Note:
-> Several students in the past had the misconception that you need to run `chmod +x` every time you run the same script. Since a file's permissions are stored alongside it, permission changes are stored permanently, and script files don't unset their executable bit every time they run. So just set it once for each script!
+> Note: > Several students in the past had the misconception that you need to run `chmod +x` every time you run the same script. Since a file's permissions are stored alongside it, permission changes are stored permanently, and script files don't unset their executable bit every time they run. So just set it once for each script!
 
 
 ##
@@ -441,4 +440,4 @@ The script Brendan made to automatically zip and re-install python addons for th
 Work Check-off
 --------------
 
-TBD
+Complete fixing the memory leaks in `search.c` and `student.c` using free appropriately.
