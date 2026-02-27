@@ -53,6 +53,7 @@ better!
       - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/1VWZV1NPNuXwpKBmIJb0yhiD95bgor4PwsnSPZ8Y0XZE/edit?usp=sharing)
       - [Lecture Summary Slides PDF](lec/02-24-vm/summary.pdf)
     - Thursday
+      - [Blank Handout](lec/02-26-badfree/lecture.pdf)
       - [Handout Code](lec/02-26-badfree/login.c)
       - [Annotated Handout](lec/02-26-badfree/lecture_notes_feb26.pdf)
 
