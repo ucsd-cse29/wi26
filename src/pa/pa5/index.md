@@ -3,7 +3,7 @@
 **Due Friday, March 13th, 11:59PM**
 
 Github Classroom Assignment: [https://classroom.github.com/a/exV5tX-2](https://classroom.github.com/a/exV5tX-2)
- 
+
 **Important**: There is no resubmission available for Assignment 5 (Problem Set, Design Questions, and Programming Assignment). Please plan your development and testing accordingly. There will also be no hidden tests for PA5, so you will receive immediate feedback on your code.
 
 ## Web Servers and HTTP
@@ -245,7 +245,18 @@ This PA explores several features that are straightforward to use, but there are
 
 ## Design Questions
 
-Note for Joe to add these.
+We know from [lab 8](https://ucsd-cse29.github.io/wi26/week8/lab8.html) that we can write `bash` scripts to automate running commands in loops. We know from this PA and lab 9 that we can use `wget` and `curl` to make requests to our chat server from the command line. We also hear in the news that AI agents are pretty good at writing code.
+
+Choose an AI agent (ChatGPT, Claude Code, Github Copilot, etc) and use it to generate a bash script for testing your chat server. Give it enough information about the specification to generate meaningful requests, and make sure it makes at least 1000 requests to your server.
+
+In your response:
+
+- Include relevant prompts and responses from the chat agent
+- Include the bash script generated
+- Show an example run of the bash script
+- Discuss if it found any bugs in your implementation
+- Discuss if you are more confident in your implementation as a result
+- Discuss anything else you learned about bash scripting, programming, or URLs/servers as a result
 
 ## Handin
 
@@ -254,5 +265,6 @@ Note for Joe to add these.
 - Submit your PA5 repository on Gradescope
 - Make sure make chat-server builds your server (that's the command we will run), and the server runs on a predictable port with, for example, ./chat-server 8000
 - Don't forget CREDITS.txt
+- **Important**: There is no resubmission for this Assignment
 - There are no hidden tests for this PA, so you can get immediate feedback on your code.
 - Make sure to keep following good coding practices, including comments and style.

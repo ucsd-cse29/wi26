@@ -24,3 +24,4 @@
 - [PA 4](./pa/pa4/index.md)
   - [Starter Code](./pa/pa4/starter-code.md)
   - [Testing](./pa/pa4/testing.md)
+- [PA 5](./pa/pa5/index.md)
