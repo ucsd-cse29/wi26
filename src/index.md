@@ -56,6 +56,9 @@ better!
       - [Blank Handout](lec/02-26-badfree/lecture.pdf)
       - [Handout Code](lec/02-26-badfree/login.c)
       - [Annotated Handout](lec/02-26-badfree/lecture_notes_feb26.pdf)
+      - [Lecture Summary Google Slides](      https://docs.google.com/presentation/d/1kcIVGQN4ioxXXbXiviZUgkOJYLkxPmMNJ2S4ZiBvzCg/edit?slide=id.g3c7c1cbecc9_0_23#slide=id.g3c7c1cbecc9_0_23)
+      - [Lecture Summary Slides PDF](lec/02-26-badfree/summary.pdf)
+
 
 - **Week 7 – Implementing an Allocator**
   - **Readings & Resources**
