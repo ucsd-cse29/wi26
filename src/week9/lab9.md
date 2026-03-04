@@ -1,6 +1,6 @@
 # Lab 9 Reference Document
 
-(Accept and clone the github classroom assignment at [this link](https://classroom.github.com/a/avrMqKHM))
+(Accept and clone the github classroom assignment at [this link](https://classroom.github.com/a/ZmTX8Qt7))
 
 ## Part 1 - Connecting to the chat server
 
@@ -61,11 +61,11 @@ Add a global variable int num to your server.
 Make your server handle the following paths:
 (You can also make the responses fancier if you like)
 
-- /shownum
+- `/shownum`
 
   - responds with the current value of num.
 
-- /increment
+- `/increment`
 
   - adds one to num, responds with the new value of num.
 
@@ -73,9 +73,15 @@ Make your server handle the following paths:
   - adds value encoded in NNN (a decimal integer) to num
     responds with the new value of num
 
+## Pokemon Mailtime
+If you would like to finish the week8 lab on bash scripting, which includes Pokemon mailtime, you are welcome to do that.
+
+Your lab checkoff will be due Tuesday week 10 @11am.
+
 ### Work Check-Off
 
-Commit and push your number server
+Commit and push your number server  
+Fill out the [Lab Survey](https://forms.gle/Jn6pEr2MPxGbaB8w8)
 
 ### Bonus
 
