@@ -49,6 +49,8 @@ better!
         [string-server3.c](lec/03-03-server/string-server3.c)
         [string-server4.c](lec/03-03-server/string-server4.c)
       - [Annotated Handout](lec/03-03-server/lecture_notes_mar3.pdf)
+      - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/13oUHTsClMGeZpmCkVAstra7QtYF3YBFUAvOPmqVw97Y/edit?usp=sharing)
+      - [Lecture Summary Slides PDF](lec/03-03-server/summary.pdf)
 
 - **Week 8 – Allocator Wrapup, More on System Calls, Practice**
   - **Readings & Resources** 
