@@ -48,6 +48,7 @@ better!
         [string-server2.c](lec/03-03-server/string-server2.c)
         [string-server3.c](lec/03-03-server/string-server3.c)
         [string-server4.c](lec/03-03-server/string-server4.c)
+      - [Annotated Handout](lec/03-03-server/lecture_notes_mar3.pdf)
 
 - **Week 8 – Allocator Wrapup, More on System Calls, Practice**
   - **Readings & Resources** 
