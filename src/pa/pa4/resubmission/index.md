@@ -1,4 +1,4 @@
-# PA4 – Malloc: Resubmission Due 12/5 at 11:59pm
+# PA4 – Malloc: Resubmission Due 3/13 at 11:59pm
 
 If you want to resubmit PA4, please read this section carefully. You need to pass all the tests in the original PA4, while also implementing an extra functionality and answering a new design question described below.
 
