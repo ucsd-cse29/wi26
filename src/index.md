@@ -51,6 +51,8 @@ better!
       - [Annotated Handout](lec/03-03-server/lecture_notes_mar3.pdf)
       - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/13oUHTsClMGeZpmCkVAstra7QtYF3YBFUAvOPmqVw97Y/edit?usp=sharing)
       - [Lecture Summary Slides PDF](lec/03-03-server/summary.pdf)
+    - Thursday
+      - [Blank Handout](lec/03-05-server2/lecture.pdf)
 
 - **Week 8 – Allocator Wrapup, More on System Calls, Practice**
   - **Readings & Resources** 
