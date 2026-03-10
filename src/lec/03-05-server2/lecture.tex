@@ -159,34 +159,42 @@ void add_string(char *s) {
 
 %% PAGE 3: Review Questions
 
+\normalsize
+
 \textbf{Review Questions}
 
 \vspace{1em}
 
 1. Given the following request string:
 
-\begin{lstlisting}[numbers=none, basicstyle=\ttfamily\footnotesize]
-char request[] = "GET /add?s=goodbye HTTP/1.1\r\nHost: localhost:2900\r\n";
+\begin{lstlisting}[numbers=none, basicstyle=\ttfamily\small]
+char request[] =
+  "GET /add?s=goodbye HTTP/1.1\r\n"
+  "Host: localhost:2900\r\n";
 \end{lstlisting}
 
-Write code that extracts \texttt{"goodbye"} into a variable called
-\texttt{value}. Use any functions you want, but also refer to {\tt sscanf} and
-{\tt strstr} from the handout if needed!
+Write code that extracts \texttt{"goodbye"} into a variable
+called \texttt{value}. Use any functions you want, but also
+refer to {\tt sscanf} and {\tt strstr} from the handout if
+needed!
 
 \vspace{3em}
 
 2. Given the following request string:
 
-\begin{lstlisting}[numbers=none, basicstyle=\ttfamily\footnotesize]
-char request[] = "GET /add-number?n=367 HTTP/1.1\r\nHost: localhost:2900\r\n";
+\begin{lstlisting}[numbers=none, basicstyle=\ttfamily\small]
+char request[] =
+  "GET /add-number?n=367 HTTP/1.1\r\n"
+  "Host: localhost:2900\r\n";
 \end{lstlisting}
 
-Write code that extracts the number \texttt{367} into an \texttt{int} variable called \texttt{n}.
+Write code that extracts the number \texttt{367} into an
+\texttt{int} variable called \texttt{n}.
 
 \vspace{3em}
 
-3. Our http server gives an \lstinline{int client} value to the handler. What
-is that value used for?
+3. Our http server gives an \lstinline{int client} value to
+the handler. What is that value used for?
 
 
 
