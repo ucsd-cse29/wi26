@@ -47,6 +47,7 @@ better!
       - Code: [list.c](lec/03-10-review/list.c)
         [list-leak.c](lec/03-10-review/list-leak.c)
         [valgrind-leak.txt](lec/03-10-review/valgrind-leak.txt)
+      - [Annotated Handout](lec/03-10-review/lecture_notes_mar10.pdf)
 - **Week 9 – HTTP Servers**
   - **Lectures**
     - Tuesday
