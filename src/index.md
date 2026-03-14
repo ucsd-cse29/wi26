@@ -48,6 +48,8 @@ better!
         [list-leak.c](lec/03-10-review/list-leak.c)
         [valgrind-leak.txt](lec/03-10-review/valgrind-leak.txt)
       - [Annotated Handout](lec/03-10-review/lecture_notes_mar10.pdf)
+      - [Lecture Summary Google Slides](https://docs.google.com/presentation/d/17bPPjs2Bv9JKCLx2kxGfMSEpxyTFKfT0L48TkW4wrSQ/edit?usp=sharing)
+      - [Lecture Summary Slides PDF](lec/03-10-review/summary.pdf)
     - Thursday 
       - Please fill out your [SETS and IA Evaluations!](https://academicaffairs.ucsd.edu/Modules/Evals)  :)
 - **Week 9 – HTTP Servers**
