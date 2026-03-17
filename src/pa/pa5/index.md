@@ -47,7 +47,7 @@ A request to `/chats` responds with the plain text rendering of all the chats.
 The rendered chat format is
 
 ```
-[#N 20XX-MM-DD HH:MM] <username>: <message>
+[#N 20XX-MM-DD HH:MM:SS] <username>: <message>
 (<rusername>) <reaction>
 ... [more reactions] ...
 ... [more chats] ...
@@ -58,17 +58,17 @@ Chats must be rendered properly, as in HW5.5. You can put in whatever effort you
 Example chats rendering might look like:
 
 ```
-[#1 2025-11-06 09:01]         joe: hi aaron
-[#2 2025-11-06 09:02]       aaron: sup
-[#3 2025-11-06 09:04]         joe: working on the example chat for the PA
-[#4 2025-11-06 09:06]       aaron: oh cool what should it say
-[#5 2025-11-06 09:07]         joe: I dunno we could go pretty meta with it? like a chat about the chat
-[#6 2025-11-06 09:10]       aaron: eh kinda lame tbh
-[#7 2025-11-06 09:11]         joe: whatever I already wrote it, going with it as-is
-[#8 2025-11-06 09:12]       aaron: ok but make sure we don't look like jerks
-[#9 2025-11-06 09:12]       aaron: or at least not me
+[#1 2025-11-06 09:01:00]         joe: hi aaron
+[#2 2025-11-06 09:02:00]       aaron: sup
+[#3 2025-11-06 09:04:00]         joe: working on the example chat for the PA
+[#4 2025-11-06 09:06:00]       aaron: oh cool what should it say
+[#5 2025-11-06 09:07:00]         joe: I dunno we could go pretty meta with it? like a chat about the chat
+[#6 2025-11-06 09:10:00]       aaron: eh kinda lame tbh
+[#7 2025-11-06 09:11:00]         joe: whatever I already wrote it, going with it as-is
+[#8 2025-11-06 09:12:00]       aaron: ok but make sure we don't look like jerks
+[#9 2025-11-06 09:12:05]       aaron: or at least not me
                             (joe)  👍🏻
-[#10 2025-11-06 09:12]         joe: good talk
+[#10 2025-11-06 09:12:25]         joe: good talk
 ```
 
 ### /post
