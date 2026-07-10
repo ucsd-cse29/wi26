@@ -491,9 +491,9 @@ the policy for lecture is that _if you use a device, you must have
 lecture-related content onscreen_. There is even [research that
 shows](https://www.sciencedirect.com/science/article/pii/S0360131520301007)
 that the content of screens in the classroom, even quite far away, can have a
-detrimental affect on learning. If you cannot resist checking social media,
+detrimental effect on learning. If you cannot resist checking social media,
 playing a game, or doing other off-topic tasks during lecture, sit in the back
-2 rows so that you are only having an affect on your own attention, or the
+2 rows so that you are only having an effect on your own attention, or the
 attention of others with a similar mindset.
 
 ## Assignments and Academic Integrity
